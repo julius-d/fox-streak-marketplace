@@ -1,0 +1,27 @@
+{
+  "format": "foxstreak-pack",
+  "version": 1,
+  "id": "dec1a0c2-562a-46cc-850a-cba8da98c4c3",
+  "title": "Erdkunde 5. Klasse",
+  "description": "Übungssets zu Deutschlands Nachbarländern für die 5. Klasse.",
+  "sets": [
+    {
+      "id": "f3b99ebc-7b56-4bdb-88ac-07109e47a6fd",
+      "title": "Nachbarländer Deutschlands",
+      "description": "Welches Land ist das? Die 9 Nachbarländer Deutschlands erkennen.",
+      "category": "geography",
+      "itemCount": 9,
+      "updatedAt": "2026-11-01",
+      "url": "sets/nachbarlaender.foxstreak.json"
+    },
+    {
+      "id": "055b008e-f29c-4698-873b-bb83aaaabe81",
+      "title": "Hauptstädte der Nachbarländer",
+      "description": "Wie heißt die Hauptstadt von ...? Die Hauptstädte der 9 Nachbarländer Deutschlands.",
+      "category": "geography",
+      "itemCount": 9,
+      "updatedAt": "2026-11-01",
+      "url": "sets/hauptstaedte.foxstreak.json"
+    }
+  ]
+}

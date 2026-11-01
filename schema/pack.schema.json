@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://julius-d.github.io/fox-streak-marketplace/schema/pack.schema.json",
+  "title": "FoxStreak marketplace pack listing (pack.json, v1)",
+  "description": "See https://github.com/julius-d/fox-streak/blob/main/docs/marketplace-api.md#2-pack-listing for the human-readable spec.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["format", "version", "id", "title", "sets"],
+  "properties": {
+    "format": { "const": "foxstreak-pack" },
+    "version": { "const": 1 },
+    "id": { "$ref": "#/$defs/uuid" },
+    "title": { "type": "string", "minLength": 1, "pattern": "\\S" },
+    "description": { "type": "string", "default": "" },
+    "sets": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/setEntry" }
+    }
+  },
+  "$defs": {
+    "uuid": {
+      "type": "string",
+      "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["vocab", "general", "math", "geography"]
+    },
+    "setEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "itemCount", "updatedAt", "url"],
+      "properties": {
+        "id": { "$ref": "#/$defs/uuid" },
+        "title": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "description": { "type": "string", "default": "" },
+        "category": { "$ref": "#/$defs/category", "default": "vocab" },
+        "itemCount": { "type": "integer", "minimum": 0 },
+        "updatedAt": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Opaque version string (e.g. an ISO date), only ever compared for equality."
+        },
+        "url": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Relative URL (resolved against the pack listing's own URL) to the Set file. Must NOT be absolute (no scheme) or protocol-relative (no leading //) — not fully checkable by this schema, see marketplace-api.md's 'Security: url must be relative'.",
+          "not": { "pattern": "^([a-zA-Z][a-zA-Z0-9+.-]*:|//)" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://julius-d.github.io/fox-streak-marketplace/schema/marketplace.schema.json",
+  "title": "FoxStreak marketplace manifest (marketplace.json, v1)",
+  "description": "See https://github.com/julius-d/fox-streak/blob/main/docs/marketplace-api.md#1-marketplace-manifest for the human-readable spec.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["format", "version", "name", "packs"],
+  "properties": {
+    "format": { "const": "foxstreak-marketplace" },
+    "version": { "const": 1 },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S",
+      "description": "Non-empty after trimming; shown as this source's display name."
+    },
+    "description": {
+      "type": "string",
+      "default": "",
+      "description": "Optional; defaults to an empty string when absent."
+    },
+    "packs": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/packEntry" }
+    }
+  },
+  "$defs": {
+    "uuid": {
+      "type": "string",
+      "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+    },
+    "packEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "url"],
+      "properties": {
+        "id": { "$ref": "#/$defs/uuid" },
+        "title": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "description": { "type": "string", "default": "" },
+        "url": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Relative URL (resolved against the manifest's own URL) to the pack listing. Must NOT be absolute (no scheme) or protocol-relative (no leading //) — not fully checkable by this schema, see marketplace-api.md's 'Security: url must be relative'.",
+          "not": { "pattern": "^([a-zA-Z][a-zA-Z0-9+.-]*:|//)" }
+        }
+      }
+    }
+  }
+}

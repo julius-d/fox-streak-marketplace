@@ -1,0 +1,92 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "055b008e-f29c-4698-873b-bb83aaaabe81",
+  "title": "Hauptstädte der Nachbarländer",
+  "description": "Wie heißt die Hauptstadt von ...? Die Hauptstädte der 9 Nachbarländer Deutschlands.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "59c70899-3697-45da-8f10-25dbe182e45b",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Österreich?",
+      "answer": "Wien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/at.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3238fdc1-8a5d-49ed-8512-8ea76b076aa1",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Belgien?",
+      "answer": "Brüssel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6563420d-4945-4420-a13c-a1ff3e56d0ef",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von der Schweiz?",
+      "answer": "Bern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/ch.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c43c4170-4004-4a1d-a543-275ed824a24c",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Tschechien?",
+      "answer": "Prag",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/cz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c6c080c2-830b-406a-a121-7991ccb56276",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Dänemark?",
+      "answer": "Kopenhagen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/dk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "317750f6-9725-45f6-92f7-07a159405a3c",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Frankreich?",
+      "answer": "Paris",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "961bc7e7-1e3e-4a3e-bf9e-1156e96bc26b",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Luxemburg?",
+      "answer": "Luxemburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/lu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bb0dc8d0-2c7c-4408-a81a-c1c2d2455d0b",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von den Niederlanden?",
+      "answer": "Amsterdam",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/nl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6f6437b7-89d7-4cd5-9cbe-daeaac8650e4",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Polen?",
+      "answer": "Warschau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/pl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

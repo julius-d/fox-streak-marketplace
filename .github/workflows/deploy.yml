@@ -1,0 +1,44 @@
+name: Validate & Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate marketplace manifest
+        run: npx --yes ajv-cli@5 validate --spec=draft2020 --strict=false -s schema/marketplace.schema.json -d "marketplace.json"
+      - name: Validate pack listings
+        run: npx --yes ajv-cli@5 validate --spec=draft2020 --strict=false -s schema/pack.schema.json -d "packs/**/pack.json"
+      - name: Validate question sets
+        run: npx --yes ajv-cli@5 validate --spec=draft2020 --strict=false -s schema/question-set.schema.json -d "packs/**/sets/*.foxstreak.json"
+
+  deploy:
+    needs: validate
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - uses: actions/deploy-pages@v4
+        id: deployment

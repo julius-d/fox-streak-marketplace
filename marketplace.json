@@ -1,0 +1,14 @@
+{
+  "format": "foxstreak-marketplace",
+  "version": 1,
+  "name": "Julius' FoxStreak Packs",
+  "description": "Example question-set packs for FoxStreak.",
+  "packs": [
+    {
+      "id": "dec1a0c2-562a-46cc-850a-cba8da98c4c3",
+      "title": "Erdkunde 5. Klasse",
+      "description": "Übungssets zu Deutschlands Nachbarländern für die 5. Klasse.",
+      "url": "packs/erdkunde-5-klasse/pack.json"
+    }
+  ]
+}

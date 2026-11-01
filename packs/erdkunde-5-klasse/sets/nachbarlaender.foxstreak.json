@@ -1,0 +1,92 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "f3b99ebc-7b56-4bdb-88ac-07109e47a6fd",
+  "title": "Nachbarländer Deutschlands",
+  "description": "Welches Land ist das? Die 9 Nachbarländer Deutschlands erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "bb14337b-3ee2-4238-aef7-b4789c5339fa",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Österreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/at.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "72027da4-7b93-4ba9-b432-ad17d1295391",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Belgien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "eb111c51-12d8-4708-9724-7d0f1c50bd68",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Schweiz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/ch.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ec1b2388-c79e-49c8-bb1b-0c3c87d397c0",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Tschechien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/cz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1c466880-f3ab-497e-af94-b60693f17fe6",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Dänemark",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/dk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9c9cef7f-1d2f-4637-b299-f516041cfc25",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Frankreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a98747da-eb6f-43b7-90b3-49e6137e4a2a",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Luxemburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/lu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3cc5fc86-6ea9-431b-8d02-9d19dc2f5fab",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Niederlande",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/nl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "86ee965c-2d2a-4783-b27a-d54831b5bdd3",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Polen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/pl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

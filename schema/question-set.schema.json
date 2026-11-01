@@ -1,0 +1,266 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/julius-d/fox-streak/main/docs/question-set.schema.json",
+  "title": "FoxStreak question set (.foxstreak.json, share format v1)",
+  "description": "See docs/question-set-format.md for the human-readable explanation of this format, including the validation rules this schema cannot express (phone normalisation, date range, language-code set size).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["format", "version", "title", "createdBy", "items"],
+  "properties": {
+    "format": {
+      "const": "foxstreak-set"
+    },
+    "version": {
+      "const": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S",
+      "description": "Non-empty after trimming whitespace."
+    },
+    "description": {
+      "type": "string",
+      "default": "",
+      "description": "Optional; defaults to an empty string when absent."
+    },
+    "createdBy": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 50,
+      "pattern": "\\S",
+      "description": "Free-text creator name, non-empty after trimming, at most 50 characters."
+    },
+    "category": {
+      "$ref": "#/$defs/category",
+      "default": "vocab",
+      "description": "Optional on import; defaults to \"vocab\" when absent."
+    },
+    "id": {
+      "$ref": "#/$defs/uuid",
+      "description": "Optional (issue #101): identifies \"this set\" independent of hosting. Absent on hand-created/legacy sets; a marketplace set is expected to always set it."
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/item"
+      }
+    }
+  },
+  "examples": [
+    {
+      "format": "foxstreak-set",
+      "version": 1,
+      "title": "Familie",
+      "description": "Family vocabulary and contacts",
+      "createdBy": "Mama",
+      "category": "vocab",
+      "items": [
+        {
+          "type": "choice",
+          "prompt": "Hund",
+          "answer": "dog",
+          "promptLang": "de",
+          "answerLang": "en",
+          "choices": ["cat", "mouse", "bird"],
+          "hint": "",
+          "imageType": "emoji",
+          "imageContent": "🐶"
+        },
+        {
+          "type": "freeText",
+          "prompt": "Katze",
+          "answer": "cat",
+          "promptLang": "de",
+          "answerLang": "en"
+        },
+        {
+          "type": "phone",
+          "prompt": "Mama",
+          "answer": "01711234567"
+        },
+        {
+          "type": "date",
+          "prompt": "Mamas Geburtstag",
+          "answer": "1985-05-14"
+        }
+      ]
+    }
+  ],
+  "$defs": {
+    "category": {
+      "type": "string",
+      "enum": ["vocab", "general", "math", "geography"]
+    },
+    "languageCode": {
+      "type": "string",
+      "enum": ["de", "en"]
+    },
+    "uuid": {
+      "type": "string",
+      "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$",
+      "description": "RFC 4122 shape (8-4-4-4-12 hex-with-hyphens), case-insensitive; version/variant nibbles are not checked (issue #101)."
+    },
+    "imageType": {
+      "type": "string",
+      "enum": ["emoji", "base64", "url"]
+    },
+    "image": {
+      "description": "Optional prompt-side image (issue #014): imageType/imageContent must be both absent, or both present. url is reserved for user-added items — bundled seed sets must use emoji/base64 only, see docs/question-set-format.md. base64 decodability and url scheme are not fully checkable by this schema.",
+      "oneOf": [
+        {
+          "not": {
+            "anyOf": [
+              { "required": ["imageType"] },
+              { "required": ["imageContent"] }
+            ]
+          }
+        },
+        { "required": ["imageType", "imageContent"] }
+      ]
+    },
+    "imageCopyright": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "pattern": "^[^\\n]*\\S[^\\n]*$",
+      "description": "Optional short copyright/credit line (issue #094). Single line (no newline anywhere in the string) and non-empty-after-trim (not fully checkable by this schema — leading/trailing whitespace within the 120-char budget isn't rejected here)."
+    },
+    "imageCopyrightPairing": {
+      "description": "imageCopyright (issue #094) may only be present when imageType is base64 or url — a system emoji glyph has no meaningful copyright. One-sided: an image may exist without a copyright, but not vice versa.",
+      "oneOf": [
+        { "not": { "required": ["imageCopyright"] } },
+        {
+          "required": ["imageCopyright", "imageType"],
+          "properties": { "imageType": { "enum": ["base64", "url"] } }
+        }
+      ]
+    },
+    "languagePair": {
+      "description": "promptLang/answerLang must be both absent, or both present with distinct codes from {de, en}.",
+      "oneOf": [
+        {
+          "not": {
+            "anyOf": [{ "required": ["promptLang"] }, { "required": ["answerLang"] }]
+          }
+        },
+        {
+          "required": ["promptLang", "answerLang"],
+          "properties": {
+            "promptLang": { "const": "de" },
+            "answerLang": { "const": "en" }
+          }
+        },
+        {
+          "required": ["promptLang", "answerLang"],
+          "properties": {
+            "promptLang": { "const": "en" },
+            "answerLang": { "const": "de" }
+          }
+        }
+      ]
+    },
+    "itemChoice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "prompt", "answer"],
+      "allOf": [
+        { "$ref": "#/$defs/languagePair" },
+        { "$ref": "#/$defs/image" },
+        { "$ref": "#/$defs/imageCopyrightPairing" }
+      ],
+      "properties": {
+        "type": { "const": "choice" },
+        "id": { "$ref": "#/$defs/uuid" },
+        "prompt": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "answer": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "promptLang": { "$ref": "#/$defs/languageCode" },
+        "answerLang": { "$ref": "#/$defs/languageCode" },
+        "choices": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1, "pattern": "\\S" }
+        },
+        "hint": { "type": "string" },
+        "imageType": { "$ref": "#/$defs/imageType" },
+        "imageContent": { "type": "string", "minLength": 1 },
+        "imageCopyright": { "$ref": "#/$defs/imageCopyright" }
+      }
+    },
+    "itemFreeText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "prompt", "answer"],
+      "allOf": [
+        { "$ref": "#/$defs/languagePair" },
+        { "$ref": "#/$defs/image" },
+        { "$ref": "#/$defs/imageCopyrightPairing" }
+      ],
+      "properties": {
+        "type": { "const": "freeText" },
+        "id": { "$ref": "#/$defs/uuid" },
+        "prompt": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "answer": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "promptLang": { "$ref": "#/$defs/languageCode" },
+        "answerLang": { "$ref": "#/$defs/languageCode" },
+        "hint": { "type": "string" },
+        "imageType": { "$ref": "#/$defs/imageType" },
+        "imageContent": { "type": "string", "minLength": 1 },
+        "imageCopyright": { "$ref": "#/$defs/imageCopyright" }
+      }
+    },
+    "itemPhone": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "prompt", "answer"],
+      "allOf": [
+        { "$ref": "#/$defs/image" },
+        { "$ref": "#/$defs/imageCopyrightPairing" }
+      ],
+      "properties": {
+        "type": { "const": "phone" },
+        "id": { "$ref": "#/$defs/uuid" },
+        "prompt": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "answer": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Must become 3-15 digits after stripping spaces, -, /, (, ), ., + — not fully checkable by this schema, see docs/question-set-format.md."
+        },
+        "hint": { "type": "string" },
+        "imageType": { "$ref": "#/$defs/imageType" },
+        "imageContent": { "type": "string", "minLength": 1 },
+        "imageCopyright": { "$ref": "#/$defs/imageCopyright" }
+      }
+    },
+    "itemDate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "prompt", "answer"],
+      "allOf": [
+        { "$ref": "#/$defs/image" },
+        { "$ref": "#/$defs/imageCopyrightPairing" }
+      ],
+      "properties": {
+        "type": { "const": "date" },
+        "id": { "$ref": "#/$defs/uuid" },
+        "prompt": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "answer": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+          "description": "Strict ISO YYYY-MM-DD, must be within 1900-01-01..today — the upper bound is not checkable by this schema, see docs/question-set-format.md."
+        },
+        "hint": { "type": "string" },
+        "imageType": { "$ref": "#/$defs/imageType" },
+        "imageContent": { "type": "string", "minLength": 1 },
+        "imageCopyright": { "$ref": "#/$defs/imageCopyright" }
+      }
+    },
+    "item": {
+      "oneOf": [
+        { "$ref": "#/$defs/itemChoice" },
+        { "$ref": "#/$defs/itemFreeText" },
+        { "$ref": "#/$defs/itemPhone" },
+        { "$ref": "#/$defs/itemDate" }
+      ]
+    }
+  }
+}
