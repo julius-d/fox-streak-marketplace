@@ -1,0 +1,9 @@
+# JetBrains
+.idea/
+ *.iml
+ *.ipr
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
