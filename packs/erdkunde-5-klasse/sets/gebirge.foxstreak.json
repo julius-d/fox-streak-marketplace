@@ -1,0 +1,65 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "4747aedb-dbde-43fa-a608-ec4f416922c1",
+  "title": "Gebirge Deutschlands",
+  "description": "Welches Gebirge ist das? Die 6 wichtigsten Gebirge Deutschlands erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "1b72f017-367d-4308-a1ae-552568486c7d",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Schwarzwald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-schwarzwald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "12136137-ac5f-4d5b-b9c3-4ae04d75144b",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Harz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-harz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "639ef29d-e53a-475c-aa0e-64a5f9d1ce18",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Bayerischer Wald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-bayerischerwald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "14e6d75f-23e1-46b6-ba8c-9aa29742beb4",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Erzgebirge",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-erzgebirge.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1b0c0d4f-dd9a-475e-b4a0-5952f5256cb4",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Thüringer Wald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-thueringerwald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ecc53ddd-5b47-4695-9099-fcfde7c067b7",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Alpen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-alpen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
