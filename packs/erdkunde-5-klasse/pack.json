@@ -22,6 +22,15 @@
       "itemCount": 9,
       "updatedAt": "2026-11-01",
       "url": "sets/hauptstaedte-der-nachbarlaender.foxstreak.json"
+    },
+    {
+      "id": "68e76496-7932-47ae-a2b0-5de0ae26c5be",
+      "title": "Flüsse Deutschlands",
+      "description": "Welcher Fluss ist das? Die 13 wichtigsten Flüsse Deutschlands erkennen.",
+      "category": "geography",
+      "itemCount": 13,
+      "updatedAt": "2026-11-02",
+      "url": "sets/fluesse.foxstreak.json"
     }
   ]
 }

@@ -1,0 +1,128 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "68e76496-7932-47ae-a2b0-5de0ae26c5be",
+  "title": "Flüsse Deutschlands",
+  "description": "Welcher Fluss ist das? Die 13 wichtigsten Flüsse Deutschlands erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "db21f40c-0de5-44cd-b82c-ff8f160c0218",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Donau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-donau.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6184ba43-165f-4241-b18f-3c6e343b051a",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Elbe",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-elbe.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "922df55e-73f9-40b5-9550-295ce1ad723a",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Havel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-havel.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3a8cb5dc-b148-4c83-b004-06831ee239e7",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Inn",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-inn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a58be62c-2293-4cd0-82b8-93e1e23313b8",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Isar",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-isar.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e62423e5-4f9b-4eec-87a7-7e30c56e2b69",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Main",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-main.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c1c1fda2-9f11-45b2-b7ca-ed5ca020eb48",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Mosel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-mosel.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e707af8d-e8f2-4dfa-b0c3-2253ebc7645e",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Neckar",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-neckar.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8dca555a-f7a6-47eb-a052-82ab682497c2",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Oder",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-oder.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cbf8e1d2-2a8f-4664-83ff-9826e72c5f1f",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Rhein",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-rhein.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f16ad9d2-d8b4-4825-8cc5-2cf5c6397c20",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Saale",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-saale.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cc32abf3-f1ec-4e93-9a29-018fd960c613",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Spree",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-spree.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "335aa4ab-7a17-4bc6-b3e5-e367b6b1103b",
+      "type": "choice",
+      "prompt": "Welcher Fluss ist das?",
+      "answer": "Weser",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/fluss-weser.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
