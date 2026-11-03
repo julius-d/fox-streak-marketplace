@@ -3,7 +3,7 @@
   "version": 1,
   "id": "4747aedb-dbde-43fa-a608-ec4f416922c1",
   "title": "Gebirge Deutschlands",
-  "description": "Welches Gebirge ist das? Die 6 wichtigsten Gebirge Deutschlands erkennen.",
+  "description": "Welches Gebirge ist das? Die 8 wichtigsten Gebirge Deutschlands erkennen.",
   "createdBy": "FoxStreak Marketplace",
   "category": "geography",
   "items": [
@@ -59,6 +59,24 @@
       "answer": "Alpen",
       "imageType": "url",
       "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-alpen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e3eca0e4-ba2e-4132-aed0-e96486cf126c",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Fränkische Alb",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-fraenkischealb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5c03a603-87f7-4aec-afd1-352b7cf250df",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Schwäbische Alb",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-schwaebischealb.png",
       "imageCopyright": "© OpenStreetMap contributors"
     }
   ]
