@@ -3,7 +3,7 @@
   "version": 1,
   "id": "4747aedb-dbde-43fa-a608-ec4f416922c1",
   "title": "Gebirge Deutschlands",
-  "description": "Welches Gebirge ist das? Die 8 wichtigsten Gebirge Deutschlands erkennen.",
+  "description": "Welches Gebirge ist das? Die 18 wichtigsten Gebirge Deutschlands erkennen.",
   "createdBy": "FoxStreak Marketplace",
   "category": "geography",
   "items": [
@@ -77,6 +77,96 @@
       "answer": "Schwäbische Alb",
       "imageType": "url",
       "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-schwaebischealb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e63248be-5976-4516-a8be-03666fc84f6a",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Eifel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-eifel.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "384e3a7a-7821-4b2f-b220-d8c1b6ef2bf3",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Fichtelgebirge",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-fichtelgebirge.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1f39fa04-97f7-4762-9573-70dcebfbdd00",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Hunsrück",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-hunsrueck.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9b76647b-09f9-4d26-b8ed-0dae9c829bdf",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Oberpfälzer Wald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-oberpfaelzerwald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b6dd8018-ead5-4328-8fe7-381364c864c5",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Pfälzerwald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-pfaelzerwald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3ecfc275-3180-4146-ae03-868651fe4b18",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Rhön",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-rhoen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "562000b8-bd70-442c-af7a-a777116414c9",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Rothaargebirge",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-rothaargebirge.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "912e7424-b4cf-4f53-8578-f7835644dd41",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Taunus",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-taunus.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c92a236e-5e4e-4bda-894a-bc8e472f17ce",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Teutoburger Wald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-teutoburgerwald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "29e81299-98b5-4144-8b24-1531e42241da",
+      "type": "choice",
+      "prompt": "Welches Gebirge ist das?",
+      "answer": "Westerwald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/gebirge-westerwald.png",
       "imageCopyright": "© OpenStreetMap contributors"
     }
   ]

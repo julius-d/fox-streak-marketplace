@@ -35,10 +35,10 @@
     {
       "id": "4747aedb-dbde-43fa-a608-ec4f416922c1",
       "title": "Gebirge Deutschlands",
-      "description": "Welches Gebirge ist das? Die 8 wichtigsten Gebirge Deutschlands erkennen.",
+      "description": "Welches Gebirge ist das? Die 18 wichtigsten Gebirge Deutschlands erkennen.",
       "category": "geography",
-      "itemCount": 8,
-      "updatedAt": "2026-11-03",
+      "itemCount": 18,
+      "updatedAt": "2026-11-04",
       "url": "sets/gebirge.foxstreak.json"
     }
   ]
