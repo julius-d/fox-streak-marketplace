@@ -1,0 +1,107 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "6ad95b44-34e6-4a01-8fb0-fd8d4ee2c16f",
+  "title": "Wochentage",
+  "description": "Die Wochentage auf Englisch und Deutsch üben.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "vocab",
+  "items": [
+    {
+      "id": "a1df3126-6d60-45b6-b552-c647b4cf8f0b",
+      "type": "choice",
+      "prompt": "Monday",
+      "answer": "Montag",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "19ccd130-8536-487e-a7c8-bd521f05cb74",
+      "type": "choice",
+      "prompt": "Tuesday",
+      "answer": "Dienstag",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "014b6f1a-597b-475f-9eed-49c31ede6108",
+      "type": "choice",
+      "prompt": "Wednesday",
+      "answer": "Mittwoch",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "2ca35e45-df5f-444d-a9cf-f279e2e4bfdf",
+      "type": "choice",
+      "prompt": "Thursday",
+      "answer": "Donnerstag",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "9bbe851b-b5c6-43ad-9fa9-1a4c97c3e706",
+      "type": "choice",
+      "prompt": "Friday",
+      "answer": "Freitag",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "de4b3977-fe3e-4732-b7ea-b010ea8188c6",
+      "type": "choice",
+      "prompt": "Saturday",
+      "answer": "Samstag",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "8a9c1386-0ebe-4cd3-b8b8-1564453fa41c",
+      "type": "choice",
+      "prompt": "Sunday",
+      "answer": "Sonntag",
+      "promptLang": "en",
+      "answerLang": "de"
+    },
+    {
+      "id": "d3b83b3f-93ec-4ef3-8290-f6c4168faa4a",
+      "type": "freeText",
+      "prompt": "Montag",
+      "answer": "Monday",
+      "promptLang": "de",
+      "answerLang": "en"
+    },
+    {
+      "id": "eff2442c-6764-4dc8-9c97-005e95c64208",
+      "type": "freeText",
+      "prompt": "Dienstag",
+      "answer": "Tuesday",
+      "promptLang": "de",
+      "answerLang": "en"
+    },
+    {
+      "id": "b5c25918-81f6-4f7b-834e-2760eb70c3a8",
+      "type": "freeText",
+      "prompt": "Mittwoch",
+      "answer": "Wednesday",
+      "promptLang": "de",
+      "answerLang": "en"
+    },
+    {
+      "id": "8985fcb0-8ca4-42e0-8797-e9547a75a1e4",
+      "type": "freeText",
+      "prompt": "Donnerstag",
+      "answer": "Thursday",
+      "promptLang": "de",
+      "answerLang": "en"
+    },
+    {
+      "id": "91831e66-3294-42c4-896e-0e5472727666",
+      "type": "freeText",
+      "prompt": "Freitag",
+      "answer": "Friday",
+      "promptLang": "de",
+      "answerLang": "en"
+    }
+  ]
+}

@@ -9,6 +9,12 @@
       "title": "Erdkunde 5. Klasse",
       "description": "Übungssets zu Deutschlands Nachbarländern für die 5. Klasse.",
       "url": "packs/erdkunde-5-klasse/pack.json"
+    },
+    {
+      "id": "1816f0a7-4b12-4f6c-b3e3-e44cde4b36f1",
+      "title": "Englisch 5. Klasse",
+      "description": "Übungssets für den Englischunterricht der 5. Klasse.",
+      "url": "packs/englisch-5-klasse/pack.json"
     }
   ]
 }

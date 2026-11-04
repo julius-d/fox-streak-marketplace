@@ -1,0 +1,18 @@
+{
+  "format": "foxstreak-pack",
+  "version": 1,
+  "id": "1816f0a7-4b12-4f6c-b3e3-e44cde4b36f1",
+  "title": "Englisch 5. Klasse",
+  "description": "Übungssets für den Englischunterricht der 5. Klasse.",
+  "sets": [
+    {
+      "id": "6ad95b44-34e6-4a01-8fb0-fd8d4ee2c16f",
+      "title": "Wochentage",
+      "description": "Die Wochentage auf Englisch und Deutsch üben.",
+      "category": "vocab",
+      "itemCount": 12,
+      "updatedAt": "2026-11-04",
+      "url": "sets/wochentage.foxstreak.json"
+    }
+  ]
+}
