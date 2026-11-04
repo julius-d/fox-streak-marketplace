@@ -5,17 +5,16 @@
   "description": "Vokabeln aus Unit 1 (Schule und Hobbys)",
   "createdBy": "KI-Assistent",
   "category": "vocab",
-  "id": "7b19a4d2-385e-49b0-bc41-52319ef8a102",
+  "id": "90278052-741f-48b4-b8fa-e78c66c369e8",
   "items": [
     {
       "type": "choice",
-      "id": "e4f82a1c-93b7-4a6c-82df-1048b6f3c101",
+      "id": "fe489d96-0434-4029-9fe4-ef2c42c84376",
       "prompt": "rule",
       "answer": "die Regel",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "die Regel",
         "das Klassenzimmer",
         "die Cafeteria",
         "die Toilette"
@@ -23,27 +22,25 @@
     },
     {
       "type": "choice",
-      "id": "c12d34e5-67f8-49a0-bc12-34ef56789abc",
+      "id": "a9940163-e71c-4cbd-8c8e-ab2708ba4f51",
       "prompt": "classroom",
       "answer": "das Klassenzimmer",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "die Bibliothek",
-        "das Klassenzimmer",
         "die Turnhalle",
         "das Büro"
       ]
     },
     {
       "type": "choice",
-      "id": "8f7e6d5c-43b2-41a0-98fe-dcba09876543",
+      "id": "c6262b60-e6a0-4561-aec1-410fd63ba6d4",
       "prompt": "playground",
       "answer": "der Schulhof; der Pausenhof; der Spielplatz",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "der Schulhof; der Pausenhof; der Spielplatz",
         "die Schulstunde",
         "das Schulfach",
         "die Mensa"
@@ -51,7 +48,7 @@
     },
     {
       "type": "choice",
-      "id": "12345678-abcd-ef01-2345-6789abcdef01",
+      "id": "90580556-7a6d-4eef-b75b-aaa1aed70b36",
       "prompt": "cafeteria",
       "answer": "die Cafeteria; die Mensa",
       "promptLang": "en",
@@ -59,19 +56,17 @@
       "choices": [
         "die Bibliothek",
         "die Toilette",
-        "die Cafeteria; die Mensa",
         "das Büro"
       ]
     },
     {
       "type": "choice",
-      "id": "98765432-10fe-dcba-9876-543210fedcba",
+      "id": "73ddd46f-8300-4fe0-9d05-2384b8945996",
       "prompt": "toilet",
       "answer": "die Toilette",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "die Toilette",
         "die Turnhalle",
         "das Klassenzimmer",
         "die Regel"
@@ -79,27 +74,25 @@
     },
     {
       "type": "choice",
-      "id": "456789ab-cdef-0123-4567-89abcdef0123",
+      "id": "db2e0117-3164-4956-8d04-84b0fca16b1a",
       "prompt": "library",
       "answer": "die Bibliothek; die Bücherei",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "das Büro",
-        "die Bibliothek; die Bücherei",
         "die Cafeteria",
         "der Schulhof"
       ]
     },
     {
       "type": "choice",
-      "id": "fedcba98-7654-3210-fedc-ba9876543210",
+      "id": "a298fce7-148c-4001-b036-4e973bb51e58",
       "prompt": "gym",
       "answer": "die Turnhalle; das Fitnessstudio",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "die Turnhalle; das Fitnessstudio",
         "die Schulstunde",
         "das Schulfach",
         "die Toilette"
@@ -107,27 +100,25 @@
     },
     {
       "type": "choice",
-      "id": "11223344-5566-7788-99aa-bbccddeeff00",
+      "id": "34022927-6614-483b-97b5-de3ee4f13b3c",
       "prompt": "office",
       "answer": "das Büro",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "das Klassenzimmer",
-        "das Büro",
         "die Bibliothek",
         "die Mensa"
       ]
     },
     {
       "type": "choice",
-      "id": "22334455-6677-8899-aabb-ccddeeff0011",
+      "id": "bf22237a-59d9-4362-a0a9-f21f07203265",
       "prompt": "to like",
       "answer": "mögen",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "mögen",
         "interessant",
         "schwierig",
         "langweilig"
@@ -135,21 +126,20 @@
     },
     {
       "type": "choice",
-      "id": "33445566-7788-99aa-bbcc-ddeeff001122",
+      "id": "d665cd53-7fea-4b01-b418-69c93b323a5b",
       "prompt": "lesson",
       "answer": "die Schulstunde; der Unterricht",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "das Schulfach",
-        "die Schulstunde; der Unterricht",
         "Mathematik",
         "Kunst"
       ]
     },
     {
       "type": "choice",
-      "id": "44556677-8899-aabb-ccdd-eeff00112233",
+      "id": "cdb62201-7f91-4c56-b48c-9557459b2c98",
       "prompt": "to be fun",
       "answer": "Spaß machen; witzig sein",
       "promptLang": "en",
@@ -157,27 +147,25 @@
       "choices": [
         "gut sein in",
         "langweilig",
-        "Spaß machen; witzig sein",
         "einfach"
       ]
     },
     {
       "type": "choice",
-      "id": "55667788-99aa-bbcc-ddee-ff0011223344",
+      "id": "bd908e50-afdb-4386-90ad-f16114b26d28",
       "prompt": "subject",
       "answer": "das Schulfach",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "die Schulstunde",
-        "das Schulfach",
         "die Regel",
         "das Büro"
       ]
     },
     {
       "type": "choice",
-      "id": "66778899-aabb-ccdd-eeff-001122334455",
+      "id": "1c890389-9b2f-4265-8c2d-78d0fe47401f",
       "prompt": "because",
       "answer": "weil; da",
       "promptLang": "en",
@@ -185,13 +173,12 @@
       "choices": [
         "aber",
         "mit",
-        "weil; da",
         "einfach"
       ]
     },
     {
       "type": "choice",
-      "id": "778899aa-bbcc-ddee-ff00-112233445566",
+      "id": "a5bbc724-1ba8-40a2-9a7b-0cc55da7fb94",
       "prompt": "interesting",
       "answer": "interessant",
       "promptLang": "en",
@@ -199,19 +186,17 @@
       "choices": [
         "schwierig",
         "langweilig",
-        "interessant",
         "einfach"
       ]
     },
     {
       "type": "choice",
-      "id": "8899aabb-ccdd-eeff-0011-223344556677",
+      "id": "48295f31-5a49-4e2b-91d4-c323b7030f1e",
       "prompt": "maths",
       "answer": "Mathematik; Mathe",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "Mathematik; Mathe",
         "Kunst",
         "Sportunterricht",
         "das Schulfach"
@@ -219,21 +204,20 @@
     },
     {
       "type": "choice",
-      "id": "99aabbcc-ddee-ff00-1122-334455667788",
+      "id": "884cd21d-67a9-4ef5-a441-3c6056b7c70f",
       "prompt": "art",
       "answer": "Kunst",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "Mathematik",
-        "Kunst",
         "Sportunterricht",
         "Regel"
       ]
     },
     {
       "type": "choice",
-      "id": "aabbccdd-eeff-0011-2233-445566778899",
+      "id": "1cc58c56-4d23-47d0-b47f-065bacdc0e16",
       "prompt": "but",
       "answer": "aber",
       "promptLang": "en",
@@ -241,33 +225,30 @@
       "choices": [
         "mit",
         "weil",
-        "aber",
         "und"
       ]
     },
     {
       "type": "choice",
-      "id": "bbccddeef-f001-1223-3445-566778899aa0",
+      "id": "e17042a7-e356-4218-af2e-84fba409fd1a",
       "prompt": "difficult",
       "answer": "schwierig",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "einfach",
-        "schwierig",
         "interessant",
         "langweilig"
       ]
     },
     {
       "type": "choice",
-      "id": "ccddeeff-0011-2233-4455-66778899aabb",
+      "id": "0e72feeb-c456-4f70-a74e-796699be6ae5",
       "prompt": "they're (= they are)",
       "answer": "sie sind",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "sie sind",
         "wir haben",
         "ich mag",
         "gut sein"
@@ -275,27 +256,25 @@
     },
     {
       "type": "choice",
-      "id": "ddeeff00-1122-3344-5566-778899aabbcc",
+      "id": "3a2ae752-5e8e-4a2c-a7a1-3f4c82913d7c",
       "prompt": "to be good at",
       "answer": "gut sein in",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "Spaß machen",
-        "gut sein in",
         "mögen",
         "gepﬂegt sein"
       ]
     },
     {
       "type": "choice",
-      "id": "eeff0011-2233-4455-6677-8899aabbccdd",
+      "id": "67eec3ce-1cda-4284-a7ee-31629d873925",
       "prompt": "I don't like ...",
       "answer": "Ich mag ... nicht; gefällt mir nicht.",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "Ich mag ... nicht; gefällt mir nicht.",
         "Ich mag ...",
         "Wir haben ...",
         "Es ist gut."
@@ -303,7 +282,7 @@
     },
     {
       "type": "choice",
-      "id": "ff001122-3344-5566-7788-99aabbccdde0",
+      "id": "56b85fae-8533-42c5-9500-80cd3db88ef0",
       "prompt": "PE (= Physical Education)",
       "answer": "Sportunterricht",
       "promptLang": "en",
@@ -311,13 +290,12 @@
       "choices": [
         "Mathematik",
         "Kunst",
-        "Sportunterricht",
         "Schulfach"
       ]
     },
     {
       "type": "choice",
-      "id": "00112233-4455-6677-8899-aabbccddeeff",
+      "id": "b89ea416-6bdc-4cdf-b8f9-e5ed1f3ee0ab",
       "prompt": "boring",
       "answer": "langweilig",
       "promptLang": "en",
@@ -325,13 +303,12 @@
       "choices": [
         "interessant",
         "schwierig",
-        "langweilig",
         "einfach"
       ]
     },
     {
       "type": "choice",
-      "id": "10203040-5060-7080-90a0-b0c0d0e0f001",
+      "id": "806cefd6-cc17-4bd1-aad2-994d9d6100e1",
       "prompt": "easy",
       "answer": "einfach; leicht",
       "promptLang": "en",
@@ -339,13 +316,12 @@
       "choices": [
         "schwierig",
         "langweilig",
-        "einfach; leicht",
         "interessant"
       ]
     },
     {
       "type": "choice",
-      "id": "20304050-6070-8090-a0b0-c0d0e0f00102",
+      "id": "9539720d-a583-49a6-a456-a2a850ba8873",
       "prompt": "with",
       "answer": "mit",
       "promptLang": "en",
@@ -353,7 +329,6 @@
       "choices": [
         "aber",
         "weil",
-        "mit",
         "und"
       ]
     }

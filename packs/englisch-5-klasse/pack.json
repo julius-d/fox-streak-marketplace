@@ -13,6 +13,15 @@
       "itemCount": 12,
       "updatedAt": "2026-11-04",
       "url": "sets/wochentage.foxstreak.json"
+    },
+    {
+      "id": "90278052-741f-48b4-b8fa-e78c66c369e8",
+      "title": "Unit 1 Vocabulary",
+      "description": "Vokabeln aus Unit 1 (Schule und Hobbys)",
+      "category": "vocab",
+      "itemCount": 25,
+      "updatedAt": "2026-11-04",
+      "url": "sets/unit-1.foxstreak.json"
     }
   ]
 }
