@@ -1,0 +1,361 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Unit 1 Vocabulary",
+  "description": "Vokabeln aus Unit 1 (Schule und Hobbys)",
+  "createdBy": "KI-Assistent",
+  "category": "vocab",
+  "id": "7b19a4d2-385e-49b0-bc41-52319ef8a102",
+  "items": [
+    {
+      "type": "choice",
+      "id": "e4f82a1c-93b7-4a6c-82df-1048b6f3c101",
+      "prompt": "rule",
+      "answer": "die Regel",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Regel",
+        "das Klassenzimmer",
+        "die Cafeteria",
+        "die Toilette"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "c12d34e5-67f8-49a0-bc12-34ef56789abc",
+      "prompt": "classroom",
+      "answer": "das Klassenzimmer",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Bibliothek",
+        "das Klassenzimmer",
+        "die Turnhalle",
+        "das Büro"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "8f7e6d5c-43b2-41a0-98fe-dcba09876543",
+      "prompt": "playground",
+      "answer": "der Schulhof; der Pausenhof; der Spielplatz",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Schulhof; der Pausenhof; der Spielplatz",
+        "die Schulstunde",
+        "das Schulfach",
+        "die Mensa"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "12345678-abcd-ef01-2345-6789abcdef01",
+      "prompt": "cafeteria",
+      "answer": "die Cafeteria; die Mensa",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Bibliothek",
+        "die Toilette",
+        "die Cafeteria; die Mensa",
+        "das Büro"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "98765432-10fe-dcba-9876-543210fedcba",
+      "prompt": "toilet",
+      "answer": "die Toilette",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Toilette",
+        "die Turnhalle",
+        "das Klassenzimmer",
+        "die Regel"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "456789ab-cdef-0123-4567-89abcdef0123",
+      "prompt": "library",
+      "answer": "die Bibliothek; die Bücherei",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Büro",
+        "die Bibliothek; die Bücherei",
+        "die Cafeteria",
+        "der Schulhof"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "fedcba98-7654-3210-fedc-ba9876543210",
+      "prompt": "gym",
+      "answer": "die Turnhalle; das Fitnessstudio",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Turnhalle; das Fitnessstudio",
+        "die Schulstunde",
+        "das Schulfach",
+        "die Toilette"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "11223344-5566-7788-99aa-bbccddeeff00",
+      "prompt": "office",
+      "answer": "das Büro",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Klassenzimmer",
+        "das Büro",
+        "die Bibliothek",
+        "die Mensa"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "22334455-6677-8899-aabb-ccddeeff0011",
+      "prompt": "to like",
+      "answer": "mögen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "mögen",
+        "interessant",
+        "schwierig",
+        "langweilig"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "33445566-7788-99aa-bbcc-ddeeff001122",
+      "prompt": "lesson",
+      "answer": "die Schulstunde; der Unterricht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Schulfach",
+        "die Schulstunde; der Unterricht",
+        "Mathematik",
+        "Kunst"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "44556677-8899-aabb-ccdd-eeff00112233",
+      "prompt": "to be fun",
+      "answer": "Spaß machen; witzig sein",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "gut sein in",
+        "langweilig",
+        "Spaß machen; witzig sein",
+        "einfach"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "55667788-99aa-bbcc-ddee-ff0011223344",
+      "prompt": "subject",
+      "answer": "das Schulfach",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Schulstunde",
+        "das Schulfach",
+        "die Regel",
+        "das Büro"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "66778899-aabb-ccdd-eeff-001122334455",
+      "prompt": "because",
+      "answer": "weil; da",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "aber",
+        "mit",
+        "weil; da",
+        "einfach"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "778899aa-bbcc-ddee-ff00-112233445566",
+      "prompt": "interesting",
+      "answer": "interessant",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "schwierig",
+        "langweilig",
+        "interessant",
+        "einfach"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "8899aabb-ccdd-eeff-0011-223344556677",
+      "prompt": "maths",
+      "answer": "Mathematik; Mathe",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Mathematik; Mathe",
+        "Kunst",
+        "Sportunterricht",
+        "das Schulfach"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "99aabbcc-ddee-ff00-1122-334455667788",
+      "prompt": "art",
+      "answer": "Kunst",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Mathematik",
+        "Kunst",
+        "Sportunterricht",
+        "Regel"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "aabbccdd-eeff-0011-2233-445566778899",
+      "prompt": "but",
+      "answer": "aber",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "mit",
+        "weil",
+        "aber",
+        "und"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "bbccddeef-f001-1223-3445-566778899aa0",
+      "prompt": "difficult",
+      "answer": "schwierig",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "einfach",
+        "schwierig",
+        "interessant",
+        "langweilig"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "ccddeeff-0011-2233-4455-66778899aabb",
+      "prompt": "they're (= they are)",
+      "answer": "sie sind",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "sie sind",
+        "wir haben",
+        "ich mag",
+        "gut sein"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "ddeeff00-1122-3344-5566-778899aabbcc",
+      "prompt": "to be good at",
+      "answer": "gut sein in",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Spaß machen",
+        "gut sein in",
+        "mögen",
+        "gepﬂegt sein"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "eeff0011-2233-4455-6677-8899aabbccdd",
+      "prompt": "I don't like ...",
+      "answer": "Ich mag ... nicht; gefällt mir nicht.",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ich mag ... nicht; gefällt mir nicht.",
+        "Ich mag ...",
+        "Wir haben ...",
+        "Es ist gut."
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "ff001122-3344-5566-7788-99aabbccdde0",
+      "prompt": "PE (= Physical Education)",
+      "answer": "Sportunterricht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Mathematik",
+        "Kunst",
+        "Sportunterricht",
+        "Schulfach"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "00112233-4455-6677-8899-aabbccddeeff",
+      "prompt": "boring",
+      "answer": "langweilig",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "interessant",
+        "schwierig",
+        "langweilig",
+        "einfach"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "10203040-5060-7080-90a0-b0c0d0e0f001",
+      "prompt": "easy",
+      "answer": "einfach; leicht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "schwierig",
+        "langweilig",
+        "einfach; leicht",
+        "interessant"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "20304050-6070-8090-a0b0-c0d0e0f00102",
+      "prompt": "with",
+      "answer": "mit",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "aber",
+        "weil",
+        "mit",
+        "und"
+      ]
+    }
+  ]
+}
