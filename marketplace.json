@@ -21,6 +21,12 @@
       "title": "Mathe Allgemein",
       "description": "Allgemeine Mathe-Übungssets, unabhängig von einer bestimmten Klassenstufe.",
       "url": "packs/mathe-allgemein/pack.json"
+    },
+    {
+      "id": "7065e69a-bf20-46b1-9fec-0bb21520fcb9",
+      "title": "Erdkunde Allgemein",
+      "description": "Allgemeine Erdkunde-Übungssets, unabhängig von einer bestimmten Klassenstufe.",
+      "url": "packs/erdkunde-allgemein/pack.json"
     }
   ]
 }

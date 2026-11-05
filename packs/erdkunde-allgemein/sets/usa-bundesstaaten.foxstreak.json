@@ -1,0 +1,470 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "ce2cef08-6644-4622-aa82-06bf4e66a94f",
+  "title": "USA Bundesstaaten",
+  "description": "Welcher US-Bundesstaat ist das? Die 50 Bundesstaaten der USA und Washington, D.C. erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "fbfc0cc6-2068-4ec3-ad7a-03fd04ee9453",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Alabama",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-al.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "af456303-3251-4b42-b9cf-59923de35c87",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Alaska",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ak.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d396acd2-cbd1-480f-88bc-191d325ae59c",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Arizona",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-az.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8b5f31ce-299e-4af4-8a77-c530ec612918",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Arkansas",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ar.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d42df2cd-0c2e-4060-bc6e-d6a8e71af698",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "California",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ca.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f8a2eef0-8fd7-458b-9834-d57747ba3d86",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Colorado",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-co.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "39812910-be0b-47c4-8df6-92a0f2e12d01",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Connecticut",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ct.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c3710653-0089-4b0d-afd2-fbf6dc1825dc",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Delaware",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-de.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "05ed3339-0251-43f0-828b-890c21a4b6a8",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Florida",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-fl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1e958a5e-65ff-4e52-a321-c99011565f96",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Georgia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ga.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "635737eb-ef63-4422-9700-e320fd9cb740",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Hawaii",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-hi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b5e31f0b-3c37-460e-ba85-88c5e271ff06",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Idaho",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-id.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bf14797f-f5e7-4ba6-b188-cbc330910cc4",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Illinois",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-il.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d5b36754-ce69-40f6-93ab-5fecd7daa75c",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Indiana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-in.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f6fc7e5b-e576-44d5-a1ff-7ae351414e72",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Iowa",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ia.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e1849409-84a3-49c5-874d-c405bf64384e",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Kansas",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ks.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1bf5a6dd-e04a-4309-9e94-49f5fe9829e9",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Kentucky",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ky.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "44f04e08-fd01-4f63-b556-4a95ddd9c74c",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Louisiana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-la.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e859b8cb-ca64-47c2-b3ec-e4e57fd619a5",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Maine",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-me.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b0c8c269-8870-4e6f-be4d-f5074a03a5b9",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Maryland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-md.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "96734251-6b85-40cb-ad57-d0d41cd0a75b",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Massachusetts",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ma.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "25a80ada-d8eb-4e25-9f55-8cfe38b74e21",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Michigan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-mi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bcb1b707-f140-4e72-b314-0cd8291c8c0c",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Minnesota",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-mn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "07995e0b-3dbf-4c67-84e1-58c1ef4fb16f",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Mississippi",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ms.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b7f65a54-6698-4144-9170-99f9dfd8d057",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Missouri",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-mo.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "4ccda393-b74c-4f98-9286-16cfd7d492bc",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Montana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-mt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f79a8ef1-9e86-4c1b-8aae-bfc2c6e238f4",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Nebraska",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ne.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7ef2ad7c-2912-42d2-9888-f0bdc3083cc7",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Nevada",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-nv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ad5cad10-97e9-4b56-8ed6-e9176d6b0511",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "New Hampshire",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-nh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "91021763-a165-4c89-a43d-2dc8b470494b",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "New Jersey",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-nj.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5b2f3b49-9294-4f12-9449-d07297b14d64",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "New Mexico",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-nm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "576d5bf2-3938-4ef1-8a77-7b6fee734f36",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "New York",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ny.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "99e0fd64-a95d-43d3-ae86-7bd3e39bbd92",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "North Carolina",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-nc.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c9c04550-40ab-48f8-9bfa-e7eccdfaf300",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "North Dakota",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-nd.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "954167ed-141c-47d2-90da-e17b879c6987",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Ohio",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-oh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "aca16a6f-1a35-4b31-8c56-645c12679ac5",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Oklahoma",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ok.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "4b84c3bb-a8f8-48a8-a0af-1c7703a17847",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Oregon",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-or.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c3deb1ee-69bf-438b-baf7-62c1da1e956d",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Pennsylvania",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-pa.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "caec6229-1304-4318-b122-dcb98353392d",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Rhode Island",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ri.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "536d7246-2c32-485e-99db-6ec0cbd00fef",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "South Carolina",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-sc.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7430a66d-b951-420a-a701-deef93da09e0",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "South Dakota",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-sd.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c288fd94-b65c-45fe-9974-fc69b154f3f2",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Tennessee",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-tn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "dd51218f-6392-4085-a281-2864d8031b5e",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Texas",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-tx.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fea8bbf5-1143-4191-9942-c35194470363",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Utah",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-ut.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "106d1874-5565-4d94-afe6-0d5d8d5ab8ef",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Vermont",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-vt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b9254eef-4dc9-424f-9ccb-9c93755d9412",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Virginia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-va.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8e1a81d2-eddd-4c98-a633-4097e851ab39",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Washington",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-wa.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b93c21b4-87fe-4199-99d5-1a99f8b8ce00",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Washington, D.C.",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-dc.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3d318ecf-d823-4ab9-af47-e37603d9cd4f",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "West Virginia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-wv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fb53a8f3-3882-4722-b2c4-a4a8b3a9febc",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Wisconsin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-wi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e01951a8-5f3e-414f-800e-7f3211d775a4",
+      "type": "choice",
+      "prompt": "Welcher US-Bundesstaat ist das?",
+      "answer": "Wyoming",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-wy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
