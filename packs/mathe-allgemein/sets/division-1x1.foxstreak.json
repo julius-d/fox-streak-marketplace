@@ -1,0 +1,551 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Division 1x1",
+  "description": "Umkehraufgaben des kleinen Einmaleins: Divisionen von 2 bis 10 (ohne ÷1).",
+  "createdBy": "KI-Assistent",
+  "category": "math",
+  "id": "bdbdc09c-efa2-459f-aff4-5ca7f2547a88",
+  "items": [
+    {
+      "type": "freeText",
+      "id": "a567419c-df6d-43d2-9399-858257e13599",
+      "prompt": "2 ÷ 2",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "96f93e5d-4076-4476-98eb-125f3def7145",
+      "prompt": "4 ÷ 2",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "ee89d8ae-94ab-4a62-8c60-d4e9c30cc6af",
+      "prompt": "6 ÷ 2",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "e36874c8-196b-4f53-847e-8aa82bc8ab5f",
+      "prompt": "8 ÷ 2",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "1d0d3632-e780-4212-8c1c-b287bf175552",
+      "prompt": "10 ÷ 2",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "5a09bc5f-b6a1-4b5a-9dfc-295b311dc6ca",
+      "prompt": "12 ÷ 2",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "583f0034-e06d-4181-89dc-adbde67bc521",
+      "prompt": "14 ÷ 2",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "ee9a1b65-e0b3-4e84-9d8c-d270c12f493b",
+      "prompt": "16 ÷ 2",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "1dc1f865-44f2-4c41-96a6-1c322d0c87b9",
+      "prompt": "18 ÷ 2",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "b5f2e8a4-f4e5-4bb5-bdb9-39b42fbe8e0c",
+      "prompt": "20 ÷ 2",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "26d2f81a-959c-4cb4-ba97-033af0044858",
+      "prompt": "3 ÷ 3",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "709b3329-5ee6-4e18-a922-32545e85d3e5",
+      "prompt": "6 ÷ 3",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "5c333db4-191e-42db-b625-f494df17a56d",
+      "prompt": "9 ÷ 3",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "2f70a430-cc94-44f4-988b-ea0707291628",
+      "prompt": "12 ÷ 3",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "0a8d6125-93a6-4d0b-9579-329ff889bbc7",
+      "prompt": "15 ÷ 3",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "d970a8e7-0a8c-461a-9908-ffef39537513",
+      "prompt": "18 ÷ 3",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "bcaabb90-a4f1-48cb-a3de-db1479e6f160",
+      "prompt": "21 ÷ 3",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "7c1b8473-33ec-4fd2-b7e3-b9aff6082d0e",
+      "prompt": "24 ÷ 3",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "8b8ca92c-d639-497d-a4ea-278f7b02382e",
+      "prompt": "27 ÷ 3",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "db9dbe71-25bc-4b8f-b2b9-85bbc94cdb7c",
+      "prompt": "30 ÷ 3",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "5a653676-50df-4656-b25e-fec3dfc2cde5",
+      "prompt": "4 ÷ 4",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "34ec47e2-2e53-470a-af86-e3b4f794f804",
+      "prompt": "8 ÷ 4",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "f9d43580-ea86-4ad0-889d-41d6ff2c2f2c",
+      "prompt": "12 ÷ 4",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "96d015f9-8c30-4652-b35c-e6c2ad8dd09a",
+      "prompt": "16 ÷ 4",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "865d846b-06b8-4421-a7df-32a8cf5c6daf",
+      "prompt": "20 ÷ 4",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "f3176ae1-69be-4bb5-b4ba-e6b1da09c81f",
+      "prompt": "24 ÷ 4",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "788f71f3-cef0-4520-b0b6-a4335f10907c",
+      "prompt": "28 ÷ 4",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "bdc41f65-eb35-4df4-ae2b-e39191b46483",
+      "prompt": "32 ÷ 4",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "499df495-a6a1-44c6-a242-3d1966024a85",
+      "prompt": "36 ÷ 4",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "589493c3-cf62-4e3a-ae0a-cbd3f5faa7c7",
+      "prompt": "40 ÷ 4",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "80fcc08c-7a2e-4922-ae84-585593f26704",
+      "prompt": "5 ÷ 5",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "b7ea8a99-c8c6-4d6b-9b7b-181548fc51da",
+      "prompt": "10 ÷ 5",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "24ff5351-9c02-4ebf-9636-5efa64482ae7",
+      "prompt": "15 ÷ 5",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "dd5ba0e0-25b2-4e8f-8d94-f4f0b83b6060",
+      "prompt": "20 ÷ 5",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "d08d789b-89c7-44e8-95c7-2314ec323d46",
+      "prompt": "25 ÷ 5",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "ad5b5b96-95b3-4d65-93df-643ddc833a62",
+      "prompt": "30 ÷ 5",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "df5c6e12-d8b3-4227-866d-029cbd29f4b9",
+      "prompt": "35 ÷ 5",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "827a3a28-27f0-40c4-b308-26e81d45fedf",
+      "prompt": "40 ÷ 5",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "d245ce9c-cd4e-4a55-b07e-b4185fdacab7",
+      "prompt": "45 ÷ 5",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "035628a7-ce13-4e04-8522-828efc1bdefd",
+      "prompt": "50 ÷ 5",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "97e80a4d-03c1-4b4d-8d6f-0dcff1e9cfb3",
+      "prompt": "6 ÷ 6",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "abd0f849-f244-49a0-a0bc-4be8f19725f3",
+      "prompt": "12 ÷ 6",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "d50d9705-39c6-4537-8321-74cd53891e5c",
+      "prompt": "18 ÷ 6",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "390ba8aa-2482-4b07-b1a8-1439ffe6b35a",
+      "prompt": "24 ÷ 6",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "12dd6082-8166-455b-93b5-02bb406f174a",
+      "prompt": "30 ÷ 6",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "10b2c5a9-eb45-4c6d-b949-596d7fb1b14f",
+      "prompt": "36 ÷ 6",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "63518881-4765-4ccf-89b4-4f4819ed1356",
+      "prompt": "42 ÷ 6",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "be60f7df-a151-4f75-b7a9-015bec140a97",
+      "prompt": "48 ÷ 6",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "51c579d0-891c-480f-a4e0-5d8dfe43793a",
+      "prompt": "54 ÷ 6",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "76cf82c1-e014-4b28-bcd7-9ed0e3775bce",
+      "prompt": "60 ÷ 6",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "b96aad03-53f3-4adf-850d-6431a91e3a02",
+      "prompt": "7 ÷ 7",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "43016279-09ce-46fe-81b0-618d4461e7e1",
+      "prompt": "14 ÷ 7",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "587141d3-f63f-42e2-baf1-f5ecc1b5868e",
+      "prompt": "21 ÷ 7",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "57cc0b31-ada5-464c-b317-d7d493238dd7",
+      "prompt": "28 ÷ 7",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "a0c410db-6763-4ef1-ae94-a21586be904d",
+      "prompt": "35 ÷ 7",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "1de95ac5-6276-43b1-a8f6-84f2fb0b6ce3",
+      "prompt": "42 ÷ 7",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "37d8485e-61d9-49f6-97cd-cc0d81a558e5",
+      "prompt": "49 ÷ 7",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "9c13de5f-be7e-429f-af8d-9349136546f8",
+      "prompt": "56 ÷ 7",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "01448b70-84a8-458f-8149-434dd2754efd",
+      "prompt": "63 ÷ 7",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "9e5df994-035e-4cee-bdb0-da9169d0a1a8",
+      "prompt": "70 ÷ 7",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "213e9309-3aa8-4f59-961a-41a24c9fb48c",
+      "prompt": "8 ÷ 8",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "7c9c201e-35fa-4491-b09c-d22e8e18844c",
+      "prompt": "16 ÷ 8",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "f34ca32a-5a96-474b-bb3b-925c56b20dee",
+      "prompt": "24 ÷ 8",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "f6237c29-07ef-4667-8878-40470f0c10b5",
+      "prompt": "32 ÷ 8",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "929a55b6-d589-4c1c-89e8-05eadc69735a",
+      "prompt": "40 ÷ 8",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "e18262de-6c9f-4e5e-9ad7-895eab71a53d",
+      "prompt": "48 ÷ 8",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "9ac8f79f-591f-4e40-93c8-c1753a33e995",
+      "prompt": "56 ÷ 8",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "2955f5dc-4521-4dca-9c3d-e793ad52ffa5",
+      "prompt": "64 ÷ 8",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "b0d59ee8-945c-4ae0-b942-827d6471fd71",
+      "prompt": "72 ÷ 8",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "f627ec84-5188-49fe-a2ca-e53014bec85f",
+      "prompt": "80 ÷ 8",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "49ef9f6b-fe9b-4bd6-9c50-afe4f660c12d",
+      "prompt": "9 ÷ 9",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "624a433d-49a2-4ef1-8d89-bf74f1249aee",
+      "prompt": "18 ÷ 9",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "70db2841-9430-4398-899a-7672bdda2faf",
+      "prompt": "27 ÷ 9",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "7dc06330-b7e3-4640-a786-2d4bf1089602",
+      "prompt": "36 ÷ 9",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "0a7eddcf-39ea-48f3-ba6f-060e59a1f021",
+      "prompt": "45 ÷ 9",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "99d09c8a-8679-4248-bc1b-b28d35723b50",
+      "prompt": "54 ÷ 9",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "b9f9a9e1-b8c4-48a1-8c0b-48b7b48fe8e9",
+      "prompt": "63 ÷ 9",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "3e0a33ae-0861-41a3-b57e-49e45af49e69",
+      "prompt": "72 ÷ 9",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "abb2a520-7d0e-4b0a-90ef-01ea046b2f48",
+      "prompt": "81 ÷ 9",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "20cdfb16-9cc7-4001-818d-abc52dd335be",
+      "prompt": "90 ÷ 9",
+      "answer": "10"
+    },
+    {
+      "type": "freeText",
+      "id": "7d5f98a3-cba0-4678-a3e6-b09c69b38c46",
+      "prompt": "10 ÷ 10",
+      "answer": "1"
+    },
+    {
+      "type": "freeText",
+      "id": "cd0a2618-1f1b-41d5-95e5-677c8c9cd42d",
+      "prompt": "20 ÷ 10",
+      "answer": "2"
+    },
+    {
+      "type": "freeText",
+      "id": "ac7a1c1e-ed49-4633-bf32-df3cf3aeb8c7",
+      "prompt": "30 ÷ 10",
+      "answer": "3"
+    },
+    {
+      "type": "freeText",
+      "id": "e1eb7f2e-38d6-42c5-a1c2-4a47f4417f23",
+      "prompt": "40 ÷ 10",
+      "answer": "4"
+    },
+    {
+      "type": "freeText",
+      "id": "817ebfad-f7b8-4899-8f4f-c7f43c3c9045",
+      "prompt": "50 ÷ 10",
+      "answer": "5"
+    },
+    {
+      "type": "freeText",
+      "id": "a65a518d-4ef2-4dc8-8848-a00344243a06",
+      "prompt": "60 ÷ 10",
+      "answer": "6"
+    },
+    {
+      "type": "freeText",
+      "id": "bf2f0a81-e091-4b04-8fb6-b10867910c2f",
+      "prompt": "70 ÷ 10",
+      "answer": "7"
+    },
+    {
+      "type": "freeText",
+      "id": "c1702980-a48e-4b09-b7b7-01d37938025f",
+      "prompt": "80 ÷ 10",
+      "answer": "8"
+    },
+    {
+      "type": "freeText",
+      "id": "c56bc681-8a66-45d5-9b43-325176ae01ad",
+      "prompt": "90 ÷ 10",
+      "answer": "9"
+    },
+    {
+      "type": "freeText",
+      "id": "a206f6ee-1365-4e6b-87dd-85ea3ba232a0",
+      "prompt": "100 ÷ 10",
+      "answer": "10"
+    }
+  ]
+}

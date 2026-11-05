@@ -15,6 +15,12 @@
       "title": "Englisch 5. Klasse",
       "description": "Übungssets für den Englischunterricht der 5. Klasse.",
       "url": "packs/englisch-5-klasse/pack.json"
+    },
+    {
+      "id": "0dabdc41-e5ce-4b4f-97b9-27b100d10d13",
+      "title": "Mathe Allgemein",
+      "description": "Allgemeine Mathe-Übungssets, unabhängig von einer bestimmten Klassenstufe.",
+      "url": "packs/mathe-allgemein/pack.json"
     }
   ]
 }

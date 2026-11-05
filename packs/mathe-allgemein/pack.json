@@ -1,0 +1,18 @@
+{
+  "format": "foxstreak-pack",
+  "version": 1,
+  "id": "0dabdc41-e5ce-4b4f-97b9-27b100d10d13",
+  "title": "Mathe Allgemein",
+  "description": "Allgemeine Mathe-Übungssets, unabhängig von einer bestimmten Klassenstufe.",
+  "sets": [
+    {
+      "id": "bdbdc09c-efa2-459f-aff4-5ca7f2547a88",
+      "title": "Division 1x1",
+      "description": "Umkehraufgaben des kleinen Einmaleins: Divisionen von 2 bis 10 (ohne ÷1).",
+      "category": "math",
+      "itemCount": 90,
+      "updatedAt": "2026-11-05",
+      "url": "sets/division-1x1.foxstreak.json"
+    }
+  ]
+}
