@@ -1,0 +1,119 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "b63932b8-7053-406c-a77c-faf4f2e83bfe",
+  "title": "Berliner Bezirke",
+  "description": "Welcher Berliner Bezirk ist das? Die 12 Bezirke Berlins erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "7e196f74-3fc7-4b66-bf8f-243df4c0c3dd",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Charlottenburg-Wilmersdorf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-charlottenburg-wilmersdorf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d6bcde79-a055-47c5-9fe5-de2c0ee9d1db",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Friedrichshain-Kreuzberg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-friedrichshain-kreuzberg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0b905834-89a3-41e0-81fc-241be333d649",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Lichtenberg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-lichtenberg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7589c1d8-ed93-43dc-94ac-3d8baddcab34",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Marzahn-Hellersdorf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-marzahn-hellersdorf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0444d33d-7b7f-4a71-8ab2-47e8ed71b82b",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Mitte",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-mitte.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "03e72bda-13af-408b-ae3a-b5140791ffbc",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Neukölln",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-neukoelln.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "df76d855-c2e2-4557-bf24-24071170917f",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Pankow",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-pankow.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c4371a90-93d3-4349-b3c8-f333155e38ce",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Reinickendorf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-reinickendorf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "25a79692-d68a-45da-ac74-566a617c7aa4",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Spandau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-spandau.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c72430a6-ffda-43bb-82c3-b396f5d21d74",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Steglitz-Zehlendorf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-steglitz-zehlendorf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7587c87c-aa1d-45a9-8f35-2f47e17ce1db",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Tempelhof-Schöneberg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-tempelhof-schoeneberg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "39faaee1-f335-44f6-8012-9ca1d9356f5b",
+      "type": "choice",
+      "prompt": "Welcher Berliner Bezirk ist das?",
+      "answer": "Treptow-Köpenick",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/berliner-bezirk-treptow-koepenick.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

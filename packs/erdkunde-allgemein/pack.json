@@ -13,6 +13,15 @@
       "itemCount": 51,
       "updatedAt": "2026-11-05",
       "url": "sets/usa-bundesstaaten.foxstreak.json"
+    },
+    {
+      "id": "b63932b8-7053-406c-a77c-faf4f2e83bfe",
+      "title": "Berliner Bezirke",
+      "description": "Welcher Berliner Bezirk ist das? Die 12 Bezirke Berlins erkennen.",
+      "category": "geography",
+      "itemCount": 12,
+      "updatedAt": "2026-11-05",
+      "url": "sets/berliner-bezirke.foxstreak.json"
     }
   ]
 }
