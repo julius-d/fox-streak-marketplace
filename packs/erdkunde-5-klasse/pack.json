@@ -11,7 +11,7 @@
       "description": "Welches Land ist das? Die 9 Nachbarländer Deutschlands erkennen.",
       "category": "geography",
       "itemCount": 9,
-      "updatedAt": "2026-11-01",
+      "updatedAt": "2026-11-06",
       "url": "sets/nachbarlaender.foxstreak.json"
     },
     {
@@ -29,7 +29,7 @@
       "description": "Welcher Fluss ist das? Die 13 wichtigsten Flüsse Deutschlands erkennen.",
       "category": "geography",
       "itemCount": 13,
-      "updatedAt": "2026-11-02",
+      "updatedAt": "2026-11-06",
       "url": "sets/fluesse.foxstreak.json"
     },
     {
@@ -38,7 +38,7 @@
       "description": "Welches Gebirge ist das? Die 18 wichtigsten Gebirge Deutschlands erkennen.",
       "category": "geography",
       "itemCount": 18,
-      "updatedAt": "2026-11-04",
+      "updatedAt": "2026-11-06",
       "url": "sets/gebirge.foxstreak.json"
     }
   ]
