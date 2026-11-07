@@ -1,0 +1,317 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "721f3648-a1f2-4b52-aa13-1596f3aca745",
+  "title": "Länder Europas",
+  "description": "Welches Land ist das? Die Länder der EU sowie Vereinigtes Königreich, Schweiz und Kleinstaaten erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "ff78409b-9bfd-4dfa-a53f-3d8ab14695b7",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Österreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-at.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "01617f40-d910-4510-8ab6-9dbd21daef43",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Belgien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ae5f2b7c-165c-4bf7-939f-abdbb177ce23",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Bulgarien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-bg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f693dbaa-cace-41b9-849f-3bf7561a41c0",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kroatien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-hr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2e75a08a-90c4-41f9-a388-d4ff06f24525",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Zypern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-cy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cd73163a-5304-47c9-b295-446a7ab09e45",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Tschechien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-cz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6ab32163-520e-426e-bb10-d8377cb3e7ea",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Dänemark",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-dk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "63b5fd84-db8a-46b8-af2d-3d3bd72fab9c",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Estland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ee.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6c0eadb0-3cde-44ec-8a84-681c3b6ae52f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Finnland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-fi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b543a6f4-08e1-465e-9e41-a58709238eef",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Frankreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-fr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5e9afd28-f989-41f6-8039-f20286bc48d7",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Deutschland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-de.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f20ae506-12fa-4ac4-a83d-50ef223bf514",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Griechenland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-gr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7ee4d655-f6e4-4d8c-87cd-108a7f813184",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Ungarn",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-hu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "02944ec7-b303-457d-b2bd-3a2002a21eeb",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Irland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ie.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "88624f98-e6b2-4574-9dbc-c025f59b3662",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Italien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-it.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5012cf3a-27d9-4229-8f5c-06e4de59bb1e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Lettland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bb4729aa-9fff-4dfb-a533-cc8fd5add0e1",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Litauen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "dcfbe658-ccbf-481d-8a0f-383cf20da13f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Luxemburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bf3be3fa-f6f5-4f3f-b4b3-5a10fb699458",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Malta",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-mt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bf205e9e-2d9c-4dff-af67-0e9adabd2c22",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Niederlande",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-nl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fb417a52-e870-4f19-9c9a-16251d21dd96",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Polen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-pl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "60d5af1c-28af-4e44-a56b-3bbae32c6c2f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Portugal",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-pt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "03b91283-63ac-4380-ade9-25a6cbcc9978",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Rumänien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ro.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "124e34a2-4111-4f17-95a5-4d013be599dd",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Slowakei",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-sk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5ace864b-0871-4b3b-b602-2e6704ccef76",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Slowenien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-si.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "84c81a13-5924-43f1-853c-4d845bd3a466",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Spanien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-es.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "84adbc08-a837-4a54-9c91-5a7846c9b021",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Schweden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-se.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "defb191f-75af-48fe-9a49-56a4f6ac7a68",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Vereinigtes Königreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-gb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "472ae553-0f06-4662-b409-f6256c5a6666",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Schweiz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ch.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "612d7397-0349-4456-9d08-f355aea849c3",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Monaco",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-mc.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f6a8ebef-672a-4ecc-a3b1-e389c4d7e072",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "San Marino",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-sm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9445aed4-3472-4351-bbf4-f01043850a28",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Vatikanstadt",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-va.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2a154444-f42c-416e-a8aa-7657dd67641e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Andorra",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ad.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "def98d5b-15a8-49ce-bdfa-17e086eda451",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Liechtenstein",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-li.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

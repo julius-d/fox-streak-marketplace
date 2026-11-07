@@ -22,6 +22,42 @@
       "itemCount": 12,
       "updatedAt": "2026-11-05",
       "url": "sets/berliner-bezirke.foxstreak.json"
+    },
+    {
+      "id": "721f3648-a1f2-4b52-aa13-1596f3aca745",
+      "title": "Länder Europas",
+      "description": "Welches Land ist das? Die Länder der EU sowie Vereinigtes Königreich, Schweiz und Kleinstaaten erkennen.",
+      "category": "geography",
+      "itemCount": 34,
+      "updatedAt": "2026-11-07",
+      "url": "sets/europa-laender.foxstreak.json"
+    },
+    {
+      "id": "6e04f12b-3d51-4c49-a483-a161498b9246",
+      "title": "Länder Afrikas",
+      "description": "Welches Land ist das? Die 54 Länder Afrikas erkennen.",
+      "category": "geography",
+      "itemCount": 54,
+      "updatedAt": "2026-11-07",
+      "url": "sets/afrika-laender.foxstreak.json"
+    },
+    {
+      "id": "c6b5e8b8-5c52-44c8-b128-acdbe1e20b03",
+      "title": "Kontinente",
+      "description": "Welcher Kontinent ist das? Die 7 Kontinente erkennen.",
+      "category": "geography",
+      "itemCount": 7,
+      "updatedAt": "2026-11-07",
+      "url": "sets/kontinente.foxstreak.json"
+    },
+    {
+      "id": "9b9eb2aa-60c8-4bf6-bc17-6669ca1ac3dc",
+      "title": "Potsdamer Ortsteile",
+      "description": "Welcher Potsdamer Ortsteil ist das? Die 32 Ortsteile Potsdams erkennen.",
+      "category": "geography",
+      "itemCount": 32,
+      "updatedAt": "2026-11-07",
+      "url": "sets/potsdamer-ortsteile.foxstreak.json"
     }
   ]
 }

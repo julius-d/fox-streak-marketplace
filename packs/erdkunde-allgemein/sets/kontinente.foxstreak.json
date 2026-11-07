@@ -1,0 +1,74 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "c6b5e8b8-5c52-44c8-b128-acdbe1e20b03",
+  "title": "Kontinente",
+  "description": "Welcher Kontinent ist das? Die 7 Kontinente erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "60d9b822-b4c6-4e78-9833-b94127aa29ce",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Afrika",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-af.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fcd1e3bc-7790-45c5-b46d-2557cfabeaaa",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Antarktis",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-an.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f4ad96b8-e68f-49d8-b57b-8d59a37ec373",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Australien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-au.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7f59b315-ca03-499c-9f3e-a23d61704adf",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Europa",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-eu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "962ef383-c1dc-42eb-a01c-02a92cbc6fff",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Nordamerika",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-na.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "77b004e9-a1b3-4b0b-94ff-820b8e63c7c0",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Südamerika",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-sa.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d4605a40-ff72-4fe3-96cb-15515c2a7a02",
+      "type": "choice",
+      "prompt": "Welcher Kontinent ist das?",
+      "answer": "Asien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/kontinent-as.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

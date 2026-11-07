@@ -1,0 +1,497 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "6e04f12b-3d51-4c49-a483-a161498b9246",
+  "title": "Länder Afrikas",
+  "description": "Welches Land ist das? Die 54 Länder Afrikas erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "80adb0b8-25d9-403d-8122-e7d9ef8267fb",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Algerien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-dz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "dc72e6e2-80f2-478e-a717-c66ee29b3db8",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Angola",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ao.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a9660f43-dd78-4869-9f71-eee6a17c2596",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Benin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-bj.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "652d68e5-c1df-4f76-a724-165ae4cf2b76",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Botswana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-bw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1edcef88-9678-45b0-88e8-1216706a23c4",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Burkina Faso",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-bf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6bd8ccbd-a57d-4433-b02c-11b7f27f6bd6",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Burundi",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-bi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "170b95d3-785d-4f7d-b645-4ffe7744101e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kap Verde",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-cv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "27b9ced1-456b-4bfc-afc8-111b5f2bc2b9",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kamerun",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-cm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "80b92323-f940-4fce-91e7-6188fd3640a7",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Zentralafrikanische Republik",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-cf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "861f3250-0d88-4777-95eb-3f66c95e99ee",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Tschad",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-td.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8dc37267-6325-4a9c-adc4-bfed3cd360ef",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Komoren",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-km.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f4cbed9b-a785-439a-8ecf-6ec582243561",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Republik Kongo",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-cg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b5530ef3-c17f-437e-b26d-5562f308821f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Demokratische Republik Kongo",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-cd.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6679ab72-c404-47de-a36f-27af83547068",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Elfenbeinküste",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ci.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "19b06c12-5385-4328-b293-3ee638b141e9",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Dschibuti",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-dj.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b20fc235-5912-484b-a5b5-ee880ddd768f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Ägypten",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-eg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "163150b7-df10-4b3a-8113-11a36a2cc164",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Äquatorialguinea",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-gq.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1d406e96-ea4b-45ad-ac69-f86884a7257c",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Eritrea",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-er.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f052c188-1fbe-4407-a83d-6e7c2aaebf91",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Eswatini",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-sz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0b62f7e2-0018-4c54-9654-fcf93dd0ccdd",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Äthiopien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-et.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5a6ddef1-f764-4971-9f6c-ddb60e4d4d3e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Gabun",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ga.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "19a62ba8-d820-4670-9751-ef0b823f2526",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Gambia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-gm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5b337fb8-8ffe-4230-83bb-6ae4d7ccd3d9",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Ghana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-gh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b4506034-467c-426d-9094-9b886c68546f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Guinea",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-gn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "97277907-f833-4164-b0ff-a9f462e29866",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Guinea-Bissau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-gw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a4c67a39-d242-42cc-9a98-7b17bd2dc272",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kenia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ke.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b9adda2e-1b3a-4718-ac7e-28a3f974d562",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Lesotho",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ls.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2083636e-9b60-4ec6-9722-3815f3bd7689",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Liberia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-lr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "91062e22-61d1-480c-adec-2c56510b492f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Libyen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ly.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "34c18c21-8b84-491b-b962-5f32dfcaf3ac",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Madagaskar",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-mg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "db28331f-b918-45c7-b018-7b25c5cf841e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Malawi",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-mw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "305395df-5c02-4e8d-a6f1-92b8c479b916",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Mali",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ml.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fd3b0d1d-5789-4fae-b8a8-03f79e7f553a",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Mauretanien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-mr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cd504cf9-6db1-45f6-b059-d09009eea9db",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Mauritius",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-mu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c59ca95b-4934-4c69-9edf-51360319510d",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Marokko",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ma.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1809c06b-5140-4331-94da-7c68ed81ad60",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Mosambik",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-mz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9912bd3c-6861-422c-9197-6932311d65b4",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Namibia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-na.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5355369e-c839-488d-a665-36c9dcb96742",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Niger",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ne.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d51ac146-33ab-4af5-a733-3ff21835c2f4",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Nigeria",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ng.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ef397345-f60a-4b24-b3d2-580bf5638eff",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Ruanda",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-rw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "4e277191-9574-4aed-9d49-b3155e5c7fd4",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "São Tomé und Príncipe",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-st.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "da98c5ca-9b5b-4c38-b07b-bc6c5a3a1f3d",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Senegal",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-sn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d7ad981b-d820-4b66-b858-fa6bc4ab427f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Seychellen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-sc.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "15c59bb0-e93a-4e42-9baa-58cdde21f949",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Sierra Leone",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-sl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7588ad41-44e8-4ab0-9d4a-97df2c45d22b",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Somalia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-so.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2973f0f7-7b5f-4d97-8117-6fe3c88dc984",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Südafrika",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-za.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8e03e78b-e4eb-4c91-928e-da274be3cd10",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Südsudan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ss.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fbaf378d-3102-4435-899b-5be233097037",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Sudan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-sd.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ce68c252-5788-4b5d-a624-bc200c211602",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Tansania",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-tz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c0ecd786-3e70-4e1b-8d26-61536bc764fa",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Togo",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-tg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b2af574c-7c5c-40b4-9aed-a5709cb5f64a",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Tunesien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-tn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "095e661b-4301-4df6-b3fa-22cc2d8c617c",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Uganda",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-ug.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "89a9094f-4a20-4a58-b246-7a497715262b",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Sambia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-zm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c90a5832-7e25-435f-acf7-83587eaa7169",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Simbabwe",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/afrika-land-zw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
