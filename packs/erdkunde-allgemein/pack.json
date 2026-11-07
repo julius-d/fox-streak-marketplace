@@ -8,10 +8,10 @@
     {
       "id": "ce2cef08-6644-4622-aa82-06bf4e66a94f",
       "title": "USA Bundesstaaten",
-      "description": "Welcher US-Bundesstaat ist das? Die 50 Bundesstaaten der USA und Washington, D.C. erkennen.",
+      "description": "Welcher US-Bundesstaat ist das? Die 50 Bundesstaaten der USA erkennen.",
       "category": "geography",
-      "itemCount": 51,
-      "updatedAt": "2026-11-06",
+      "itemCount": 50,
+      "updatedAt": "2026-11-07",
       "url": "sets/usa-bundesstaaten.foxstreak.json"
     },
     {

@@ -3,7 +3,7 @@
   "version": 1,
   "id": "ce2cef08-6644-4622-aa82-06bf4e66a94f",
   "title": "USA Bundesstaaten",
-  "description": "Welcher US-Bundesstaat ist das? Die 50 Bundesstaaten der USA und Washington, D.C. erkennen.",
+  "description": "Welcher US-Bundesstaat ist das? Die 50 Bundesstaaten der USA erkennen.",
   "createdBy": "FoxStreak Marketplace",
   "category": "geography",
   "items": [
@@ -428,15 +428,6 @@
       "answer": "Washington",
       "imageType": "url",
       "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-wa.png",
-      "imageCopyright": "© OpenStreetMap contributors"
-    },
-    {
-      "id": "b93c21b4-87fe-4199-99d5-1a99f8b8ce00",
-      "type": "choice",
-      "prompt": "Welcher US-Bundesstaat ist das?",
-      "answer": "Washington, D.C.",
-      "imageType": "url",
-      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/us-bundesstaat-dc.png",
       "imageCopyright": "© OpenStreetMap contributors"
     },
     {
