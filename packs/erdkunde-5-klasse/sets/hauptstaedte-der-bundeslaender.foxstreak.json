@@ -1,0 +1,128 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "66209d07-b846-4f9c-85cc-e4f80a2afec5",
+  "title": "Hauptstädte der Bundesländer",
+  "description": "Wie heißt die Hauptstadt von ...? Die Landeshauptstädte der 13 Flächenländer Deutschlands.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "ceaa69c8-d39a-4de8-b5a2-5eaf4ee5d2e4",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Baden-Württemberg?",
+      "answer": "Stuttgart",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-bw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b5fb1d54-bdd4-4dc7-8c75-154665c60adf",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Bayern?",
+      "answer": "München",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-by.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5ed54273-a15e-4e2b-8200-0ab5bd271a31",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Brandenburg?",
+      "answer": "Potsdam",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-bb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c459ffa8-bbc9-4e05-8bb9-e5533ac5bb8d",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Hessen?",
+      "answer": "Wiesbaden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-he.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2461f2aa-88c8-4e6c-8947-2970d2ee4975",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Mecklenburg-Vorpommern?",
+      "answer": "Schwerin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-mv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "256a1923-fe5e-4cd9-800e-edf5edf5da8a",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Niedersachsen?",
+      "answer": "Hannover",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-ni.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "08ee585d-43f3-4d26-ab2c-bb9d06da6af9",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Nordrhein-Westfalen?",
+      "answer": "Düsseldorf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-nw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "35f8031b-6131-4f28-8f45-6f9f199750ef",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Rheinland-Pfalz?",
+      "answer": "Mainz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-rp.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1d65061e-40cc-4584-a776-3326540cf240",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt vom Saarland?",
+      "answer": "Saarbrücken",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-sl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "4c959e1b-6623-4b5a-9c21-9d2185d4c6b2",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Sachsen?",
+      "answer": "Dresden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-sn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e654b960-1c5a-400c-92f2-d0d878f169b7",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Sachsen-Anhalt?",
+      "answer": "Magdeburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-st.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "07dfac48-63cf-4e06-b969-80cb58bf4858",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Schleswig-Holstein?",
+      "answer": "Kiel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-sh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "02bb1775-de0a-4c2f-9490-03c9287e0143",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Thüringen?",
+      "answer": "Erfurt",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-th.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

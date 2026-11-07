@@ -1,0 +1,155 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "77fdecf9-9f4c-48f6-94ce-66661de8e1ed",
+  "title": "Bundesländer Deutschlands",
+  "description": "Welches Bundesland ist das? Die 16 Bundesländer Deutschlands erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "ee19845f-89a5-4ef7-8b4f-8a35171b3ebe",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Baden-Württemberg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-bw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "65be3350-6f70-4505-b2a7-a2e7aa3eac77",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Bayern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-by.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8228b91b-a7ee-45f0-b752-29a60a4dec75",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Berlin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1e48dd71-f4e9-43ab-b464-0c77192ee0a8",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Brandenburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-bb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1df41e66-c6d1-405b-b3e7-8734999ff14e",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Bremen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-hb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "902df703-0b05-4a73-abee-67719ad22cae",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Hamburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-hh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "14bd47f0-18e9-4386-acf5-54759640d749",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Hessen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-he.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "68ea0a61-c20b-4fb8-a26e-ef2a60d040bd",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Mecklenburg-Vorpommern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-mv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5fc46f63-dc2c-413b-b1cb-5d60fa9d7e85",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Niedersachsen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-ni.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a6f7f2e7-a11a-4249-9296-314a4b8661b5",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Nordrhein-Westfalen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-nw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "58b8f7b3-5e4b-4216-9361-dc8d70fe55bb",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Rheinland-Pfalz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-rp.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "32286c7c-a85c-4ee8-af88-bce1daed6719",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Saarland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-sl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8ddbab12-96db-49ba-9185-43de92b1c776",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Sachsen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-sn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "55e79858-8c11-432f-8c00-ac3c0aba0103",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Sachsen-Anhalt",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-st.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e49b929b-1cf5-4e1e-88a2-cbe31ff499dc",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Schleswig-Holstein",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-sh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "65346aad-5e99-413b-be5a-cc29e91b169f",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Thüringen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/bundesland-th.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "version": 1,
   "id": "dec1a0c2-562a-46cc-850a-cba8da98c4c3",
   "title": "Erdkunde 5. Klasse",
-  "description": "Übungssets zu Deutschlands Nachbarländern für die 5. Klasse.",
+  "description": "Übungssets zu Deutschland (Nachbarländer, Bundesländer, Flüsse, Gebirge) für die 5. Klasse.",
   "sets": [
     {
       "id": "f3b99ebc-7b56-4bdb-88ac-07109e47a6fd",
@@ -40,6 +40,24 @@
       "itemCount": 18,
       "updatedAt": "2026-11-06",
       "url": "sets/gebirge.foxstreak.json"
+    },
+    {
+      "id": "77fdecf9-9f4c-48f6-94ce-66661de8e1ed",
+      "title": "Bundesländer Deutschlands",
+      "description": "Welches Bundesland ist das? Die 16 Bundesländer Deutschlands erkennen.",
+      "category": "geography",
+      "itemCount": 16,
+      "updatedAt": "2026-11-07",
+      "url": "sets/bundeslaender.foxstreak.json"
+    },
+    {
+      "id": "66209d07-b846-4f9c-85cc-e4f80a2afec5",
+      "title": "Hauptstädte der Bundesländer",
+      "description": "Wie heißt die Hauptstadt von ...? Die Landeshauptstädte der 13 Flächenländer Deutschlands.",
+      "category": "geography",
+      "itemCount": 13,
+      "updatedAt": "2026-11-07",
+      "url": "sets/hauptstaedte-der-bundeslaender.foxstreak.json"
     }
   ]
 }
