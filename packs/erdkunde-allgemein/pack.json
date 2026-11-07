@@ -58,6 +58,15 @@
       "itemCount": 32,
       "updatedAt": "2026-11-07",
       "url": "sets/potsdamer-ortsteile.foxstreak.json"
+    },
+    {
+      "id": "3019d9eb-d752-4f89-b669-3df1167284c0",
+      "title": "Brandenburger Landkreise",
+      "description": "Welcher Landkreis oder welche kreisfreie Stadt ist das? Die 14 Landkreise und 4 kreisfreien Städte Brandenburgs erkennen.",
+      "category": "geography",
+      "itemCount": 18,
+      "updatedAt": "2026-11-07",
+      "url": "sets/brandenburger-landkreise.foxstreak.json"
     }
   ]
 }

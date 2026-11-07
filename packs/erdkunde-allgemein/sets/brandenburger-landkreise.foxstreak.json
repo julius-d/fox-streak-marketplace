@@ -1,0 +1,173 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "3019d9eb-d752-4f89-b669-3df1167284c0",
+  "title": "Brandenburger Landkreise",
+  "description": "Welcher Landkreis oder welche kreisfreie Stadt ist das? Die 14 Landkreise und 4 kreisfreien Städte Brandenburgs erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "6dec4f7c-6585-4b9d-8b62-c96770630b28",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Barnim",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-barnim.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5f77ca5b-14de-476d-8eff-de25a754684b",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Brandenburg an der Havel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-brandenburgadh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ed44f2aa-cfa7-437e-bd6c-4a4b77bd123b",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Cottbus",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-cottbus.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0a1a2be3-1262-4f9a-ab48-8b9b72dedd0f",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Dahme-Spreewald",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-dahmespreewald.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2a04962a-3f2f-4341-be05-d17285c19bd3",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Elbe-Elster",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-elbeelster.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a9d32a42-8ca4-4fb7-a5f8-da759b4ceba2",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Frankfurt (Oder)",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-frankfurtoder.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "baef4f73-05cb-4d04-b826-5d34bb7ce673",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Havelland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-havelland.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "586674f7-e264-4abe-81e5-0aaa8b3bbf50",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Märkisch-Oderland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-maerkischoderland.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b5f9b66c-9734-49d8-9158-aab3e270fb6d",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Oberhavel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-oberhavel.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1a01492b-5f48-49d5-b998-84dc481db814",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Oberspreewald-Lausitz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-oberspreewaldlausitz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2d289bc5-bb64-48f5-a7e7-4e418939e686",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Oder-Spree",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-oderspree.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f51211c0-d8fc-4825-ad5e-d6235b1555a5",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Ostprignitz-Ruppin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-ostprignitzruppin.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fcd44909-87c9-40bf-ac31-622676f725be",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Potsdam",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-potsdam.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "14170669-4649-4009-897a-d20fc7009db3",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Potsdam-Mittelmark",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-potsdammittelmark.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "43b0df0f-c38c-48ac-8dec-14b4fe35380b",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Prignitz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-prignitz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b01fd90d-5c54-4d71-aa51-cf7e474ea387",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Spree-Neiße",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-spreeneisse.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0a7c425e-d49f-4be5-959c-7a92c207f064",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Teltow-Fläming",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-teltowflaeming.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f44d3dbb-ea51-402d-aad7-0b2d3899e460",
+      "type": "choice",
+      "prompt": "Welcher Landkreis oder welche kreisfreie Stadt in Brandenburg ist das?",
+      "answer": "Uckermark",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/brandenburg-landkreis-uckermark.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
