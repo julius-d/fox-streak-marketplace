@@ -1,0 +1,119 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "03649c4d-7675-4b5b-a742-dbf092d071dd",
+  "title": "Länder Südamerikas",
+  "description": "Welches Land ist das? Die 12 Länder Südamerikas erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "da282572-f23b-4e40-8293-dbc48f28a527",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Argentinien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-ar.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "669704ee-a765-4407-a6fd-e75ec767f8ed",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Bolivien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-bo.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fd9f01d6-3395-48d8-8499-5ab267458156",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Brasilien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-br.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c1e25287-2faa-48ed-a29b-1cd1fd166d7a",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Chile",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-cl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "679c2b11-3a11-4fa4-b5ee-cd7679373701",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Ecuador",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-ec.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8ecb4881-c6de-40ad-9bbc-22460dff04a0",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Guyana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-gy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "559d4ad5-3551-4909-b1c0-ee44fadb4c3e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kolumbien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-co.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6d4fdd6a-11f1-437b-ae1e-86f93261a296",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Paraguay",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-py.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9036d88e-133c-422b-a0de-3496b992fde4",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Peru",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-pe.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0e9393bf-7d63-4a45-8ed4-4d9e26e4e109",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Suriname",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-sr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1678f6a4-2176-4d6e-b3b8-639f073d7039",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Uruguay",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-uy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "de4639a5-8304-49a9-b2ee-c5db05df21b1",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Venezuela",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/suedamerika-land-ve.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

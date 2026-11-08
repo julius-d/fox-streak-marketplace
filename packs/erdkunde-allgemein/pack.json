@@ -76,6 +76,15 @@
       "itemCount": 27,
       "updatedAt": "2026-11-08",
       "url": "sets/eu-flaggen.foxstreak.json"
+    },
+    {
+      "id": "03649c4d-7675-4b5b-a742-dbf092d071dd",
+      "title": "Länder Südamerikas",
+      "description": "Welches Land ist das? Die 12 Länder Südamerikas erkennen.",
+      "category": "geography",
+      "itemCount": 12,
+      "updatedAt": "2026-11-08",
+      "url": "sets/suedamerika-laender.foxstreak.json"
     }
   ]
 }
