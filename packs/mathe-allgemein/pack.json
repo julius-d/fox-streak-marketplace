@@ -13,6 +13,15 @@
       "itemCount": 90,
       "updatedAt": "2026-11-05",
       "url": "sets/division-1x1.foxstreak.json"
+    },
+    {
+      "id": "5595bead-2fc4-43d8-953f-ae369a3c2a84",
+      "title": "Quadratzahlen 11–20",
+      "description": "Quadratzahlen von 11² bis 20² und die passenden Wurzeln (√121 bis √400).",
+      "category": "math",
+      "itemCount": 20,
+      "updatedAt": "2026-11-08",
+      "url": "sets/quadratzahlen-11-20.foxstreak.json"
     }
   ]
 }

@@ -1,0 +1,131 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Quadratzahlen 11–20",
+  "description": "Quadratzahlen von 11² bis 20² und die passenden Wurzeln (√121 bis √400).",
+  "createdBy": "KI-Assistent",
+  "category": "math",
+  "id": "5595bead-2fc4-43d8-953f-ae369a3c2a84",
+  "items": [
+    {
+      "type": "freeText",
+      "id": "3242f833-e465-4b38-9957-d248bae170f6",
+      "prompt": "11²",
+      "answer": "121"
+    },
+    {
+      "type": "freeText",
+      "id": "20db0294-539c-41cb-abb6-03ecacf47067",
+      "prompt": "12²",
+      "answer": "144"
+    },
+    {
+      "type": "freeText",
+      "id": "0e2b8fce-2b75-4c9c-aa8b-db0c45454f29",
+      "prompt": "13²",
+      "answer": "169"
+    },
+    {
+      "type": "freeText",
+      "id": "12d4e47d-8f26-4317-a3ba-e62ea27824df",
+      "prompt": "14²",
+      "answer": "196"
+    },
+    {
+      "type": "freeText",
+      "id": "f664ea6b-337f-438d-9071-61d69658f8c0",
+      "prompt": "15²",
+      "answer": "225"
+    },
+    {
+      "type": "freeText",
+      "id": "0c62e412-2154-4628-b3a6-c61610b6d510",
+      "prompt": "16²",
+      "answer": "256"
+    },
+    {
+      "type": "freeText",
+      "id": "b5db2d1e-793e-410f-95fe-4c58b82e9a0d",
+      "prompt": "17²",
+      "answer": "289"
+    },
+    {
+      "type": "freeText",
+      "id": "2c695e57-8761-4759-b98c-f819adf17810",
+      "prompt": "18²",
+      "answer": "324"
+    },
+    {
+      "type": "freeText",
+      "id": "b87b618f-e397-4888-9d12-ef404388b607",
+      "prompt": "19²",
+      "answer": "361"
+    },
+    {
+      "type": "freeText",
+      "id": "500b7afc-dfd1-40f7-a59e-66d197b4b147",
+      "prompt": "20²",
+      "answer": "400"
+    },
+    {
+      "type": "freeText",
+      "id": "018d8ca4-9349-463c-8bd7-99c2e13c2433",
+      "prompt": "√121",
+      "answer": "11"
+    },
+    {
+      "type": "freeText",
+      "id": "8f1378b5-470d-4eeb-ad0e-35981827b78a",
+      "prompt": "√144",
+      "answer": "12"
+    },
+    {
+      "type": "freeText",
+      "id": "a269c772-ff0d-403c-a9e8-a0d2f8b79262",
+      "prompt": "√169",
+      "answer": "13"
+    },
+    {
+      "type": "freeText",
+      "id": "48d86726-4757-43b2-884d-23ad7315227f",
+      "prompt": "√196",
+      "answer": "14"
+    },
+    {
+      "type": "freeText",
+      "id": "d283494f-a4df-4ec0-b0de-949b3f7acf4f",
+      "prompt": "√225",
+      "answer": "15"
+    },
+    {
+      "type": "freeText",
+      "id": "d5ea91e5-0de8-4451-a636-3e1cbc808258",
+      "prompt": "√256",
+      "answer": "16"
+    },
+    {
+      "type": "freeText",
+      "id": "81e8b9ac-89fa-45f7-98d4-f7440d723165",
+      "prompt": "√289",
+      "answer": "17"
+    },
+    {
+      "type": "freeText",
+      "id": "7fe61641-a132-47be-817a-85ca21827d5f",
+      "prompt": "√324",
+      "answer": "18"
+    },
+    {
+      "type": "freeText",
+      "id": "826bf37c-1d19-4f4c-a1ac-010d34715c84",
+      "prompt": "√361",
+      "answer": "19"
+    },
+    {
+      "type": "freeText",
+      "id": "ed97afaa-e1af-4c6a-9a1e-4ffa4ba08822",
+      "prompt": "√400",
+      "answer": "20"
+    }
+  ]
+}
