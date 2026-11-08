@@ -85,6 +85,15 @@
       "itemCount": 12,
       "updatedAt": "2026-11-08",
       "url": "sets/suedamerika-laender.foxstreak.json"
+    },
+    {
+      "id": "be5ba81f-9a49-4609-a0b7-59a79806ce3b",
+      "title": "Länder Nordamerikas",
+      "description": "Welches Land ist das? Kanada, USA, Mexiko und die 7 Staaten Mittelamerikas erkennen.",
+      "category": "geography",
+      "itemCount": 10,
+      "updatedAt": "2026-11-08",
+      "url": "sets/nordamerika-laender.foxstreak.json"
     }
   ]
 }

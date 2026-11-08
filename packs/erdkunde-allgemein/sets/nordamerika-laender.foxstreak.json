@@ -1,0 +1,101 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "be5ba81f-9a49-4609-a0b7-59a79806ce3b",
+  "title": "Länder Nordamerikas",
+  "description": "Welches Land ist das? Kanada, USA, Mexiko und die 7 Staaten Mittelamerikas erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "6af4bb0c-9a34-4ce5-9bca-ad1db1c25947",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Belize",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-bz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a7db5a6b-86b5-4b63-b6ac-c2e0fe764fbb",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Costa Rica",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-cr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3879efb7-fac2-4d57-9799-e04f33c2e051",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "El Salvador",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-sv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6f3cc1a6-a97d-4b79-a7c1-35ebdfb97185",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Guatemala",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-gt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "dad03582-4423-4539-b613-f5ea8b302331",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Honduras",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-hn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1f0cb4c3-e0bc-475a-9d49-da5159af029a",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kanada",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-ca.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "12da8b57-9e59-4334-8447-6b4623cac898",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Mexiko",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-mx.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6a01f940-6f51-4604-8fe5-910b99c70948",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Nicaragua",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-ni.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8f75bb16-6690-4482-9f52-b8a9528cf912",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Panama",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-pa.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "aef8199a-64a1-489c-918b-967eae917649",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "USA",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/nordamerika-land-us.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
