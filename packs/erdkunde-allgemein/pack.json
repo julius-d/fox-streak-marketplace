@@ -67,6 +67,15 @@
       "itemCount": 18,
       "updatedAt": "2026-11-07",
       "url": "sets/brandenburger-landkreise.foxstreak.json"
+    },
+    {
+      "id": "c1fcd145-13c7-419d-a0d1-c3be43ee4e68",
+      "title": "Flaggen der EU-Länder",
+      "description": "Zu welchem Land gehört diese Flagge? Die Flaggen der 27 EU-Mitgliedstaaten erkennen.",
+      "category": "geography",
+      "itemCount": 27,
+      "updatedAt": "2026-11-08",
+      "url": "sets/eu-flaggen.foxstreak.json"
     }
   ]
 }

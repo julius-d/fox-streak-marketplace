@@ -1,0 +1,227 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "c1fcd145-13c7-419d-a0d1-c3be43ee4e68",
+  "title": "Flaggen der EU-Länder",
+  "description": "Zu welchem Land gehört diese Flagge? Die Flaggen der 27 EU-Mitgliedstaaten erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "1c6609e7-85d4-4b44-9f1a-04d5bc21f7a6",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Österreich",
+      "imageType": "emoji",
+      "imageContent": "🇦🇹"
+    },
+    {
+      "id": "784af917-00a5-49e6-9c6a-b3ad45d40fe4",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Belgien",
+      "imageType": "emoji",
+      "imageContent": "🇧🇪"
+    },
+    {
+      "id": "62ef9e00-ce37-4207-b98f-568cae418b3b",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Bulgarien",
+      "imageType": "emoji",
+      "imageContent": "🇧🇬"
+    },
+    {
+      "id": "d4b69446-13c0-43e5-a328-e7e1d5b04e6b",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Kroatien",
+      "imageType": "emoji",
+      "imageContent": "🇭🇷"
+    },
+    {
+      "id": "14a5560e-5913-4357-8a02-a2949b6f40d2",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Zypern",
+      "imageType": "emoji",
+      "imageContent": "🇨🇾"
+    },
+    {
+      "id": "801adc7a-7f93-446e-a4e5-3e5ecabf0ac9",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Tschechien",
+      "imageType": "emoji",
+      "imageContent": "🇨🇿"
+    },
+    {
+      "id": "823b12c4-5a7e-4eb6-b493-a76232052b3d",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Dänemark",
+      "imageType": "emoji",
+      "imageContent": "🇩🇰"
+    },
+    {
+      "id": "3e0c35b1-8733-410f-a957-fcc847c99234",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Estland",
+      "imageType": "emoji",
+      "imageContent": "🇪🇪"
+    },
+    {
+      "id": "c30bd0a7-767e-4e53-8775-71db982257ed",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Finnland",
+      "imageType": "emoji",
+      "imageContent": "🇫🇮"
+    },
+    {
+      "id": "7990b1f9-2134-480d-b7af-a8910c90a653",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Frankreich",
+      "imageType": "emoji",
+      "imageContent": "🇫🇷"
+    },
+    {
+      "id": "c2d80886-0b82-4464-a5b4-457a16b65c65",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Deutschland",
+      "imageType": "emoji",
+      "imageContent": "🇩🇪"
+    },
+    {
+      "id": "93d96c6a-ec07-4938-a8ca-924ea28def1f",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Griechenland",
+      "imageType": "emoji",
+      "imageContent": "🇬🇷"
+    },
+    {
+      "id": "9ac35619-6248-49dd-97e7-aeb2afa4fa4e",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Ungarn",
+      "imageType": "emoji",
+      "imageContent": "🇭🇺"
+    },
+    {
+      "id": "4da25fc2-a8ae-4b55-bf2f-6f8c17dbf0b1",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Irland",
+      "imageType": "emoji",
+      "imageContent": "🇮🇪"
+    },
+    {
+      "id": "36e6a86e-2950-4390-8644-3a69c4864bc2",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Italien",
+      "imageType": "emoji",
+      "imageContent": "🇮🇹"
+    },
+    {
+      "id": "dd39b159-b73a-43c1-ba02-3971fba1c7e7",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Lettland",
+      "imageType": "emoji",
+      "imageContent": "🇱🇻"
+    },
+    {
+      "id": "36bc8aeb-33e1-4816-8901-fad59e2e370c",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Litauen",
+      "imageType": "emoji",
+      "imageContent": "🇱🇹"
+    },
+    {
+      "id": "1a5f40f9-9a43-4b03-b5ac-1eda2daa203e",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Luxemburg",
+      "imageType": "emoji",
+      "imageContent": "🇱🇺"
+    },
+    {
+      "id": "5753c1bf-e43e-4024-b72d-a47fc2922036",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Malta",
+      "imageType": "emoji",
+      "imageContent": "🇲🇹"
+    },
+    {
+      "id": "abe1ce76-c557-4373-b795-638dfb282f88",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Niederlande",
+      "imageType": "emoji",
+      "imageContent": "🇳🇱"
+    },
+    {
+      "id": "5950a088-c210-4a0e-a818-5510d610eb30",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Polen",
+      "imageType": "emoji",
+      "imageContent": "🇵🇱"
+    },
+    {
+      "id": "5ad97aac-d6c2-42b0-b867-9f42734914ed",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Portugal",
+      "imageType": "emoji",
+      "imageContent": "🇵🇹"
+    },
+    {
+      "id": "fa56cbd4-774c-42f3-a3d8-1faf7d9aae26",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Rumänien",
+      "imageType": "emoji",
+      "imageContent": "🇷🇴"
+    },
+    {
+      "id": "595c11a4-74d7-4962-a4c3-a5f03fcfc46c",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Slowakei",
+      "imageType": "emoji",
+      "imageContent": "🇸🇰"
+    },
+    {
+      "id": "74f7d485-59fc-4db5-b93a-2e7105818377",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Slowenien",
+      "imageType": "emoji",
+      "imageContent": "🇸🇮"
+    },
+    {
+      "id": "c025b995-55a6-4d5f-a223-4ad68e684710",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Spanien",
+      "imageType": "emoji",
+      "imageContent": "🇪🇸"
+    },
+    {
+      "id": "8bf038a2-9f38-47b4-8a34-e23142b27e99",
+      "type": "choice",
+      "prompt": "Zu welchem Land gehört diese Flagge?",
+      "answer": "Schweden",
+      "imageType": "emoji",
+      "imageContent": "🇸🇪"
+    }
+  ]
+}
