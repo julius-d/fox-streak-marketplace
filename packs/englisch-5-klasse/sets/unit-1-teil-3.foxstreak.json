@@ -16,7 +16,8 @@
         "das T-Shirt",
         "das Spiel",
         "das Fahrrad"
-      ]
+      ],
+      "id": "3dcbf515-fa68-496d-9ce6-40a23bd5d1ad"
     },
     {
       "type": "choice",
@@ -28,7 +29,8 @@
         "die Familie",
         "die Schwester",
         "das Problem"
-      ]
+      ],
+      "id": "e18534dd-d98f-4837-b4e7-d259a4c173c1"
     },
     {
       "type": "choice",
@@ -40,7 +42,8 @@
         "der Fußball",
         "das Haus",
         "das Fahrrad"
-      ]
+      ],
+      "id": "505b398c-4c70-4940-87ae-b4816d5ae7a9"
     },
     {
       "type": "choice",
@@ -52,7 +55,8 @@
         "das Problem",
         "das Zuhause; das Heim",
         "das T-Shirt"
-      ]
+      ],
+      "id": "4ae7ae9a-92d1-496c-996e-6c3c71f99b96"
     },
     {
       "type": "choice",
@@ -64,7 +68,8 @@
         "unser / unsere",
         "nicht",
         "da; dort"
-      ]
+      ],
+      "id": "51d5550f-4ee1-41a5-a4d7-4595fcd3b096"
     },
     {
       "type": "choice",
@@ -76,7 +81,8 @@
         "das Spiel",
         "das Haus",
         "das Fahrrad"
-      ]
+      ],
+      "id": "6b39acbe-4c14-4a7d-b24c-47edcd9a4298"
     },
     {
       "type": "choice",
@@ -88,7 +94,8 @@
         "Ich sehe was, was du nicht siehst ...",
         "Es tut mir leid.; Entschuldigung.",
         "unser / unsere"
-      ]
+      ],
+      "id": "74d44a03-c98e-4aab-b2e3-d719a03e929f"
     },
     {
       "type": "choice",
@@ -100,7 +107,8 @@
         "hat",
         "wer",
         "schnell"
-      ]
+      ],
+      "id": "cba4bae0-9560-476c-b859-93fb79c820a7"
     },
     {
       "type": "choice",
@@ -112,7 +120,8 @@
         "nicht",
         "jemand",
         "schnell"
-      ]
+      ],
+      "id": "b52ffabd-472a-4c49-a228-3627267ba093"
     },
     {
       "type": "choice",
@@ -124,7 +133,8 @@
         "wohnen; leben",
         "anhalten; stoppen",
         "aufhören"
-      ]
+      ],
+      "id": "a4a933c4-0048-4612-9729-2805449285bc"
     },
     {
       "type": "choice",
@@ -136,7 +146,8 @@
         "wer",
         "alle; ganz; alles",
         "unser / unsere"
-      ]
+      ],
+      "id": "b570a2e1-6bc0-4fc2-a405-13dc73e04976"
     },
     {
       "type": "choice",
@@ -148,7 +159,8 @@
         "nicht",
         "da; dort",
         "alle; ganz; alles"
-      ]
+      ],
+      "id": "05317f11-cf47-4136-bcde-570c557ad479"
     },
     {
       "type": "choice",
@@ -160,7 +172,8 @@
         "der Fußball",
         "das Haus",
         "das T-Shirt"
-      ]
+      ],
+      "id": "317a1866-a31a-4128-9827-619aeb1b6088"
     },
     {
       "type": "choice",
@@ -172,7 +185,8 @@
         "wohnen; leben",
         "fragen",
         "haben"
-      ]
+      ],
+      "id": "f856bc4a-4616-42ba-90a9-733cc674cd08"
     },
     {
       "type": "choice",
@@ -184,7 +198,8 @@
         "alle; ganz; alles",
         "jemand",
         "wer"
-      ]
+      ],
+      "id": "f89fe65b-de68-4882-a566-bba673827f21"
     },
     {
       "type": "choice",
@@ -196,7 +211,8 @@
         "ist",
         "wohnt",
         "fragt"
-      ]
+      ],
+      "id": "23707c96-535d-48c8-88d5-d60ee8fef038"
     },
     {
       "type": "choice",
@@ -208,7 +224,8 @@
         "Ich sehe was, was du nicht siehst ...",
         "lass(t) uns",
         "unser / unsere"
-      ]
+      ],
+      "id": "c947a752-5437-46da-bc91-a60776c746ae"
     },
     {
       "type": "choice",
@@ -220,7 +237,8 @@
         "jemand",
         "nicht",
         "alle; ganz; alles"
-      ]
+      ],
+      "id": "bac5379d-6cc5-470c-9c55-86c391278631"
     },
     {
       "type": "choice",
@@ -232,7 +250,8 @@
         "Es tut mir leid.; Entschuldigung.",
         "lass(t) uns",
         "das Spiel"
-      ]
+      ],
+      "id": "9d4aea4f-df59-4bd6-974f-13e9cbf0974d"
     },
     {
       "type": "choice",
@@ -244,7 +263,8 @@
         "die Mama",
         "die Schwester",
         "die Gebärdensprache"
-      ]
+      ],
+      "id": "b78d4a77-ecb9-4034-ac52-ba1b42ee648b"
     },
     {
       "type": "choice",
@@ -256,7 +276,8 @@
         "das Haus",
         "das Problem",
         "das Spiel"
-      ]
+      ],
+      "id": "99369122-2396-43ba-8506-4bfa256817a1"
     },
     {
       "type": "choice",
@@ -268,7 +289,8 @@
         "fragen",
         "anhalten; stoppen",
         "haben"
-      ]
+      ],
+      "id": "05207a8b-cf5d-4c6a-8a03-9d5c53d281a9"
     },
     {
       "type": "choice",
@@ -280,7 +302,8 @@
         "das Zuhause; das Heim",
         "der Fußball",
         "das Fahrrad"
-      ]
+      ],
+      "id": "bceeea58-94b0-4e42-8b65-1e62a00115b1"
     },
     {
       "type": "choice",
@@ -292,7 +315,8 @@
         "die Schwester",
         "die Familie",
         "die Gebärdensprache"
-      ]
+      ],
+      "id": "9eac685e-c005-49a3-898b-111b69d6dd1d"
     },
     {
       "type": "choice",
@@ -304,7 +328,8 @@
         "die Mama",
         "der Bruder",
         "die Familie"
-      ]
+      ],
+      "id": "04c45456-5bfe-4170-896e-27a54e2039a6"
     },
     {
       "type": "choice",
@@ -316,7 +341,9 @@
         "die Schwester",
         "die Mama",
         "der Fußball"
-      ]
+      ],
+      "id": "09d421f3-348e-40fd-bec0-127d0ab196e2"
     }
-  ]
+  ],
+  "id": "e0ed6f14-4abe-497b-88af-1723a4e1752f"
 }
