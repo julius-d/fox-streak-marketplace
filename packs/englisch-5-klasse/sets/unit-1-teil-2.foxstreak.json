@@ -1,119 +1,205 @@
 {
   "format": "foxstreak-set",
   "version": 1,
-  "title": "Vocabulary Unit 1 Teil 2",
-  "description": "Englisch-Vokabeln aus Unit 1 (Englisch nach Deutsch)",
+  "title": "Vocabulary Unit 1 Part 2",
+  "description": "Vokabeln aus Unit 1 (Englisch nach Deutsch)",
   "createdBy": "Lehrer",
   "category": "vocab",
-  "id": "abaa410d-3fd3-4d46-a5c8-72c18780a35d",
   "items": [
     {
       "type": "choice",
-      "id": "2a29bd18-8427-47db-925b-601a276b1a0d",
       "prompt": "homework",
-      "answer": "die Hausaufgabe",
+      "answer": "die Hausaufgabe, die Hausaufgaben",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
+        "die Schulstunde",
         "das Buch",
-        "die Schule",
-        "der Test"
+        "die Prüfung"
       ]
     },
     {
       "type": "choice",
-      "id": "4f46b1a1-34e2-4fff-951f-129b62c2b4a1",
       "prompt": "sure",
       "answer": "sicher",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "schnell",
-        "schwer",
-        "schön"
+        "schwierig",
+        "langweilig"
       ]
     },
     {
       "type": "choice",
-      "id": "30da3007-9c9e-435a-83da-d9d1a88865b7",
       "prompt": "number",
-      "answer": "die Zahl",
+      "answer": "die Zahl; die Nummer; die Anzahl",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "das Wort",
         "die Frage",
-        "die Antwort"
+        "der Buchstabe"
       ]
     },
     {
       "type": "choice",
-      "id": "fbb4e552-daf6-4897-9265-19af797d0f0c",
       "prompt": "experiment",
-      "answer": "das Experiment",
+      "answer": "der Versuch; das Experiment",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "die Stunde",
-        "die Pause",
+        "die Aufgabe",
+        "die Regel",
         "das Heft"
       ]
     },
     {
       "type": "choice",
-      "id": "809f647e-9831-46e7-89de-974f50eaa718",
       "prompt": "sport",
-      "answer": "der Sport",
+      "answer": "der Sport; die Sportart",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "das Spiel",
         "die Musik",
-        "das Bild"
+        "das Fach",
+        "die Pause"
       ]
     },
     {
       "type": "choice",
-      "id": "547ea249-00ac-47d0-a36c-80158a830fe1",
+      "prompt": "isn't",
+      "answer": "ist nicht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "ist",
+        "war nicht",
+        "sind"
+      ]
+    },
+    {
+      "type": "choice",
       "prompt": "biology",
       "answer": "Biologie",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
         "Geschichte",
-        "Erdkunde",
-        "Mathematik"
+        "Mathematik",
+        "Chemie"
       ]
     },
     {
       "type": "choice",
-      "id": "f24468e0-2f5c-4713-8f52-5cd3290b67c9",
       "prompt": "geography",
-      "answer": "Erdkunde",
+      "answer": "Erdkunde; Geografie",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "Biologie",
-        "Chemie",
-        "Physik"
+        "Physik",
+        "Informatik",
+        "Englisch"
       ]
     },
     {
       "type": "choice",
-      "id": "752f622c-cc9b-4dbc-ac0d-d5a798948d1d",
+      "prompt": "German",
+      "answer": "Deutsch",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Französisch",
+        "Spanisch",
+        "Russisch"
+      ]
+    },
+    {
+      "type": "choice",
       "prompt": "history",
       "answer": "Geschichte",
       "promptLang": "en",
       "answerLang": "de",
       "choices": [
-        "Technik",
-        "Englisch",
-        "Französisch"
+        "Biologie",
+        "Erdkunde",
+        "Religion"
       ]
     },
     {
       "type": "choice",
-      "id": "633be9c3-934d-4581-867c-8df569da82ff",
+      "prompt": "IT",
+      "answer": "Informatik; Computerunterricht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Technik",
+        "Sport",
+        "Kunst"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "technology",
+      "answer": "Technik",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Informatik",
+        "Physik",
+        "Musik"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "drama",
+      "answer": "Theater; Drama",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Musik",
+        "Kunst",
+        "Sport"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "tutor time",
+      "answer": "die Klassenstunde",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Pause",
+        "die Hausaufgabe",
+        "der Schultag"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "RE",
+      "answer": "Religionsunterricht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ethik",
+        "Geschichte",
+        "Erdkunde"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "we",
+      "answer": "wir",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "sie",
+        "ihr",
+        "du"
+      ]
+    },
+    {
+      "type": "choice",
       "prompt": "cat",
       "answer": "die Katze",
       "promptLang": "en",
@@ -128,7 +214,6 @@
     },
     {
       "type": "choice",
-      "id": "53260228-4ed4-4559-9eae-e21ee6504438",
       "prompt": "big",
       "answer": "groß",
       "promptLang": "en",
@@ -136,7 +221,103 @@
       "choices": [
         "klein",
         "schnell",
-        "langsam"
+        "neu"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "tour",
+      "answer": "der Rundgang; die Tour",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Ausflug",
+        "die Reise",
+        "das Spiel"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "to have",
+      "answer": "essen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "trinken",
+        "schlafen",
+        "spielen"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "lunch",
+      "answer": "das Mittagessen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Frühstück",
+        "das Abendessen",
+        "der Snack"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "to make",
+      "answer": "machen; tun; bilden; hier: drehen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "gehen",
+        "sagen",
+        "haben"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "film",
+      "answer": "der Film",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Buch",
+        "das Lied",
+        "das Bild"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "recording studio",
+      "answer": "das Tonstudio",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Klassenzimmer",
+        "die Turnhalle",
+        "die Schulbibliothek"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "to find",
+      "answer": "finden; herausfinden",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "suchen",
+        "verlieren",
+        "zeigen"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "badminton",
+      "answer": "das Badminton",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Fußball",
+        "Basketball",
+        "Tennis"
       ]
     }
   ]
