@@ -1,0 +1,322 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Unit 1 & Unit 2: Family, home & more",
+  "description": "Vokabeln aus Unit 2 (Englisch-Deutsch) mit realistischen Distraktoren",
+  "createdBy": "Lernassistent",
+  "category": "vocab",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "football",
+      "answer": "der Fußball",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das T-Shirt",
+        "das Spiel",
+        "das Fahrrad"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "sign language",
+      "answer": "die Gebärdensprache",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Familie",
+        "die Schwester",
+        "das Problem"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "T-shirt",
+      "answer": "das T-Shirt",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Fußball",
+        "das Haus",
+        "das Fahrrad"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "game",
+      "answer": "das Spiel",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Problem",
+        "das Zuhause; das Heim",
+        "das T-Shirt"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "all",
+      "answer": "alle; ganz; alles",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "unser / unsere",
+        "nicht",
+        "da; dort"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "problem",
+      "answer": "das Problem",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Spiel",
+        "das Haus",
+        "das Fahrrad"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "let's (= let us)",
+      "answer": "lass(t) uns",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ich sehe was, was du nicht siehst ...",
+        "Es tut mir leid.; Entschuldigung.",
+        "unser / unsere"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "not",
+      "answer": "nicht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "hat",
+        "wer",
+        "schnell"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "there",
+      "answer": "da; dort",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "nicht",
+        "jemand",
+        "schnell"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "to ask",
+      "answer": "fragen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "wohnen; leben",
+        "anhalten; stoppen",
+        "aufhören"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "someone",
+      "answer": "jemand",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "wer",
+        "alle; ganz; alles",
+        "unser / unsere"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "quick",
+      "answer": "schnell",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "nicht",
+        "da; dort",
+        "alle; ganz; alles"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "bike",
+      "answer": "das Fahrrad",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Fußball",
+        "das Haus",
+        "das T-Shirt"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "to stop",
+      "answer": "anhalten; stoppen; stehen bleiben; aufhören; abstellen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "wohnen; leben",
+        "fragen",
+        "haben"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "our",
+      "answer": "unser / unsere",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "alle; ganz; alles",
+        "jemand",
+        "wer"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "has",
+      "answer": "hat",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "ist",
+        "wohnt",
+        "fragt"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I'm sorry.",
+      "answer": "Es tut mir leid.; Entschuldigung.",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ich sehe was, was du nicht siehst ...",
+        "lass(t) uns",
+        "unser / unsere"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "who",
+      "answer": "wer",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "jemand",
+        "nicht",
+        "alle; ganz; alles"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I spy with my little eye ...",
+      "answer": "Ich sehe was, was du nicht siehst ...",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Es tut mir leid.; Entschuldigung.",
+        "lass(t) uns",
+        "das Spiel"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "family",
+      "answer": "die Familie",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Mama",
+        "die Schwester",
+        "die Gebärdensprache"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "home",
+      "answer": "das Zuhause; das Heim",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Haus",
+        "das Problem",
+        "das Spiel"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "to live",
+      "answer": "wohnen; leben",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "fragen",
+        "anhalten; stoppen",
+        "haben"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "house",
+      "answer": "das Haus",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Zuhause; das Heim",
+        "der Fußball",
+        "das Fahrrad"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "mum",
+      "answer": "die Mama",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Schwester",
+        "die Familie",
+        "die Gebärdensprache"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "sister",
+      "answer": "die Schwester",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Mama",
+        "der Bruder",
+        "die Familie"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "brother",
+      "answer": "der Bruder",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Schwester",
+        "die Mama",
+        "der Fußball"
+      ]
+    }
+  ]
+}
