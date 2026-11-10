@@ -1,0 +1,351 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Vocabulary Unit 1 Part 2",
+  "description": "Vokabeln aus Unit 1 (Englisch nach Deutsch)",
+  "createdBy": "Lehrer",
+  "category": "vocab",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "homework",
+      "answer": "die Hausaufgabe, die Hausaufgaben",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Schulstunde",
+        "das Buch",
+        "die Prüfung"
+      ],
+      "id": "b320c4a7-2c7f-43c1-b98f-d6c5272255b8"
+    },
+    {
+      "type": "choice",
+      "prompt": "sure",
+      "answer": "sicher",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "schnell",
+        "schwierig",
+        "langweilig"
+      ],
+      "id": "5201f969-33d7-45a4-ba99-d69671158f53"
+    },
+    {
+      "type": "choice",
+      "prompt": "number",
+      "answer": "die Zahl; die Nummer; die Anzahl",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Wort",
+        "die Frage",
+        "der Buchstabe"
+      ],
+      "id": "7c28d615-cefd-46a9-aadb-15d5be7a23bb"
+    },
+    {
+      "type": "choice",
+      "prompt": "experiment",
+      "answer": "der Versuch; das Experiment",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Aufgabe",
+        "die Regel",
+        "das Heft"
+      ],
+      "id": "9d5e93fd-59c9-45bd-913b-78f59b4eff07"
+    },
+    {
+      "type": "choice",
+      "prompt": "sport",
+      "answer": "der Sport; die Sportart",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Musik",
+        "das Fach",
+        "die Pause"
+      ],
+      "id": "f55e344a-4c6e-4464-8476-af31b281f750"
+    },
+    {
+      "type": "choice",
+      "prompt": "isn't",
+      "answer": "ist nicht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "ist",
+        "war nicht",
+        "sind"
+      ],
+      "id": "82d2d581-948d-461f-867f-5dabdd75ef9f"
+    },
+    {
+      "type": "choice",
+      "prompt": "biology",
+      "answer": "Biologie",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Geschichte",
+        "Mathematik",
+        "Chemie"
+      ],
+      "id": "6c15d362-18af-407c-8e4a-7f699962fac6"
+    },
+    {
+      "type": "choice",
+      "prompt": "geography",
+      "answer": "Erdkunde; Geografie",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Physik",
+        "Informatik",
+        "Englisch"
+      ],
+      "id": "d49c9713-7097-4609-a317-d1e1ec948f9e"
+    },
+    {
+      "type": "choice",
+      "prompt": "German",
+      "answer": "Deutsch",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Französisch",
+        "Spanisch",
+        "Russisch"
+      ],
+      "id": "d81952c4-0e73-4721-ba0e-6b605ca539f8"
+    },
+    {
+      "type": "choice",
+      "prompt": "history",
+      "answer": "Geschichte",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Biologie",
+        "Erdkunde",
+        "Religion"
+      ],
+      "id": "a7a5dfa4-2566-4b23-a0a6-79e0d33bd9e3"
+    },
+    {
+      "type": "choice",
+      "prompt": "IT",
+      "answer": "Informatik; Computerunterricht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Technik",
+        "Sport",
+        "Kunst"
+      ],
+      "id": "b244d3da-3abc-42d6-a400-c7fc6508f6c8"
+    },
+    {
+      "type": "choice",
+      "prompt": "technology",
+      "answer": "Technik",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Informatik",
+        "Physik",
+        "Musik"
+      ],
+      "id": "79385218-a968-4c38-b226-2a14a2748cec"
+    },
+    {
+      "type": "choice",
+      "prompt": "drama",
+      "answer": "Theater; Drama",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Musik",
+        "Kunst",
+        "Sport"
+      ],
+      "id": "7be13a53-1854-48a9-bce9-691eea5c2a5c"
+    },
+    {
+      "type": "choice",
+      "prompt": "tutor time",
+      "answer": "die Klassenstunde",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Pause",
+        "die Hausaufgabe",
+        "der Schultag"
+      ],
+      "id": "fb7f579e-d9b5-4462-bd0e-34837dc46f69"
+    },
+    {
+      "type": "choice",
+      "prompt": "RE",
+      "answer": "Religionsunterricht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ethik",
+        "Geschichte",
+        "Erdkunde"
+      ],
+      "id": "e6d356b1-7b49-4d9d-8b01-7a2852137a76"
+    },
+    {
+      "type": "choice",
+      "prompt": "we",
+      "answer": "wir",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "sie",
+        "ihr",
+        "du"
+      ],
+      "id": "52111e97-aca7-444e-b4d9-2368440a5fbd"
+    },
+    {
+      "type": "choice",
+      "prompt": "cat",
+      "answer": "die Katze",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Hund",
+        "die Maus",
+        "der Vogel"
+      ],
+      "imageType": "emoji",
+      "imageContent": "🐈",
+      "id": "000e1319-e1b0-40d7-bc0e-5116e27f7ee8"
+    },
+    {
+      "type": "choice",
+      "prompt": "big",
+      "answer": "groß",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "klein",
+        "schnell",
+        "neu"
+      ],
+      "id": "015cd8b6-8a65-42ab-8b35-696eab7ec91a"
+    },
+    {
+      "type": "choice",
+      "prompt": "tour",
+      "answer": "der Rundgang; die Tour",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Ausflug",
+        "die Reise",
+        "das Spiel"
+      ],
+      "id": "a3d734ca-b3ed-4054-8bf5-79289c859262"
+    },
+    {
+      "type": "choice",
+      "prompt": "to have",
+      "answer": "essen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "trinken",
+        "schlafen",
+        "spielen"
+      ],
+      "id": "579e3f7e-f71b-4858-820e-53306a83941a"
+    },
+    {
+      "type": "choice",
+      "prompt": "lunch",
+      "answer": "das Mittagessen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Frühstück",
+        "das Abendessen",
+        "der Snack"
+      ],
+      "id": "3cdab075-48f5-4438-b127-074ed64f7d43"
+    },
+    {
+      "type": "choice",
+      "prompt": "to make",
+      "answer": "machen; tun; bilden; hier: drehen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "gehen",
+        "sagen",
+        "haben"
+      ],
+      "id": "e95a8265-bfcd-4faa-949a-a09805a0d3ff"
+    },
+    {
+      "type": "choice",
+      "prompt": "film",
+      "answer": "der Film",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Buch",
+        "das Lied",
+        "das Bild"
+      ],
+      "id": "4fa9bce3-3a11-40c5-8686-4f4e58a3194c"
+    },
+    {
+      "type": "choice",
+      "prompt": "recording studio",
+      "answer": "das Tonstudio",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Klassenzimmer",
+        "die Turnhalle",
+        "die Schulbibliothek"
+      ],
+      "id": "a963d3a9-b414-4904-8b65-1aa63971417c"
+    },
+    {
+      "type": "choice",
+      "prompt": "to find",
+      "answer": "finden; herausfinden",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "suchen",
+        "verlieren",
+        "zeigen"
+      ],
+      "id": "c972640d-664a-4b58-aa68-629fa3476885"
+    },
+    {
+      "type": "choice",
+      "prompt": "badminton",
+      "answer": "das Badminton",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Fußball",
+        "Basketball",
+        "Tennis"
+      ],
+      "id": "b14a3758-d66e-4f39-80b4-c784798d1c83"
+    }
+  ],
+  "id": "561eab86-8874-4f13-8287-6bd695963f4c"
+}

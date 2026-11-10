@@ -22,6 +22,15 @@
       "itemCount": 25,
       "updatedAt": "2026-11-05",
       "url": "sets/unit-1.foxstreak.json"
+    },
+    {
+      "id": "561eab86-8874-4f13-8287-6bd695963f4c",
+      "title": "Vocabulary Unit 1 Part 2",
+      "description": "Englisch-Vokabeln aus Unit 1 (Englisch nach Deutsch)",
+      "category": "vocab",
+      "itemCount": 26,
+      "updatedAt": "2026-11-10",
+      "url": "sets/unit-1-teil-2.foxstreak.json"
     }
   ]
 }
