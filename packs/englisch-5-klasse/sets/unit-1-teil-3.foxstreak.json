@@ -1,0 +1,349 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Unit 1 & Unit 2: Family, home & more",
+  "description": "Vokabeln: Unit 1 & 2 (Englisch-Deutsch)",
+  "createdBy": "Lernassistent",
+  "category": "vocab",
+  "items": [
+    {
+      "type": "choice",
+      "prompt": "football",
+      "answer": "der Fußball",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das T-Shirt",
+        "das Spiel",
+        "das Fahrrad"
+      ],
+      "id": "339a6a61-8bfb-457b-b945-92c8316caa69"
+    },
+    {
+      "type": "choice",
+      "prompt": "sign language",
+      "answer": "die Gebärdensprache",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Familie",
+        "die Schwester",
+        "das Problem"
+      ],
+      "id": "8a2ad465-5d54-4381-8cf4-61a76a35193f"
+    },
+    {
+      "type": "choice",
+      "prompt": "T-shirt",
+      "answer": "das T-Shirt",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Fußball",
+        "das Haus",
+        "das Fahrrad"
+      ],
+      "id": "5ac9ff21-b999-4147-803d-7f38fceb032b"
+    },
+    {
+      "type": "choice",
+      "prompt": "game",
+      "answer": "das Spiel",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Problem",
+        "das Zuhause; das Heim",
+        "das T-Shirt"
+      ],
+      "id": "3f6e0f11-ed4a-4a8b-bab0-7d685f0177de"
+    },
+    {
+      "type": "choice",
+      "prompt": "all",
+      "answer": "alle; ganz; alles",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "unser / unsere",
+        "nicht",
+        "da; dort"
+      ],
+      "id": "09b054f7-1bda-4947-ab42-0c7158bdc5a2"
+    },
+    {
+      "type": "choice",
+      "prompt": "problem",
+      "answer": "das Problem",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Spiel",
+        "das Haus",
+        "das Fahrrad"
+      ],
+      "id": "88264f73-bbeb-4347-bb51-32b649af27c7"
+    },
+    {
+      "type": "choice",
+      "prompt": "let's (= let us)",
+      "answer": "lass(t) uns",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ich sehe was, was du nicht siehst ...",
+        "Es tut mir leid.; Entschuldigung.",
+        "unser / unsere"
+      ],
+      "id": "2fd3a1ab-b978-4116-8558-8ac7cfb687dc"
+    },
+    {
+      "type": "choice",
+      "prompt": "not",
+      "answer": "nicht",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "hat",
+        "wer",
+        "schnell"
+      ],
+      "id": "d025573b-6518-47e3-bddf-5653a3693d61"
+    },
+    {
+      "type": "choice",
+      "prompt": "there",
+      "answer": "da; dort",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "nicht",
+        "jemand",
+        "schnell"
+      ],
+      "id": "424567d8-3d8d-4fda-b49e-49d74b9c2f53"
+    },
+    {
+      "type": "choice",
+      "prompt": "to ask",
+      "answer": "fragen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "wohnen; leben",
+        "anhalten; stoppen",
+        "aufhören"
+      ],
+      "id": "ba46e544-e27c-41fc-a28f-1aebafa0d356"
+    },
+    {
+      "type": "choice",
+      "prompt": "someone",
+      "answer": "jemand",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "wer",
+        "alle; ganz; alles",
+        "unser / unsere"
+      ],
+      "id": "f22c86ad-10b5-47e7-bbda-5a8af3bcd949"
+    },
+    {
+      "type": "choice",
+      "prompt": "quick",
+      "answer": "schnell",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "nicht",
+        "da; dort",
+        "alle; ganz; alles"
+      ],
+      "id": "88f349c7-ec0c-45e1-a907-0e9bd718b55a"
+    },
+    {
+      "type": "choice",
+      "prompt": "bike",
+      "answer": "das Fahrrad",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Fußball",
+        "das Haus",
+        "das T-Shirt"
+      ],
+      "id": "0b5658b6-6c2c-4866-9524-121bf398c0ca"
+    },
+    {
+      "type": "choice",
+      "prompt": "to stop",
+      "answer": "anhalten; stoppen; stehen bleiben; aufhören; abstellen",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "wohnen; leben",
+        "fragen",
+        "haben"
+      ],
+      "id": "11c27798-d512-40d7-baeb-6dc3404acf75"
+    },
+    {
+      "type": "choice",
+      "prompt": "our",
+      "answer": "unser / unsere",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "alle; ganz; alles",
+        "jemand",
+        "wer"
+      ],
+      "id": "e6c41d72-9994-4c56-a23a-b73848251930"
+    },
+    {
+      "type": "choice",
+      "prompt": "has",
+      "answer": "hat",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "ist",
+        "wohnt",
+        "fragt"
+      ],
+      "id": "1acf8d94-2da8-4f76-be60-63184ffda7a3"
+    },
+    {
+      "type": "choice",
+      "prompt": "I'm sorry.",
+      "answer": "Es tut mir leid.; Entschuldigung.",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Ich sehe was, was du nicht siehst ...",
+        "lass(t) uns",
+        "unser / unsere"
+      ],
+      "id": "39a92e7f-d831-4d19-8ffc-64e7f7e8d43a"
+    },
+    {
+      "type": "choice",
+      "prompt": "who",
+      "answer": "wer",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "jemand",
+        "nicht",
+        "alle; ganz; alles"
+      ],
+      "id": "3ba677b6-75ad-4b6a-9cc5-7cdd2cfa3bc8"
+    },
+    {
+      "type": "choice",
+      "prompt": "I spy with my little eye ...",
+      "answer": "Ich sehe was, was du nicht siehst ...",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Es tut mir leid.; Entschuldigung.",
+        "lass(t) uns",
+        "das Spiel"
+      ],
+      "id": "53beb4da-85a8-4ce1-bd35-6b203fca8378"
+    },
+    {
+      "type": "choice",
+      "prompt": "family",
+      "answer": "die Familie",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Mama",
+        "die Schwester",
+        "die Gebärdensprache"
+      ],
+      "id": "fd229c5a-d5f0-4237-b7c5-0e19dacc7c61"
+    },
+    {
+      "type": "choice",
+      "prompt": "home",
+      "answer": "das Zuhause; das Heim",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Haus",
+        "das Problem",
+        "das Spiel"
+      ],
+      "id": "5e2ca1e1-7434-4f87-a574-7b8140fb14f0"
+    },
+    {
+      "type": "choice",
+      "prompt": "to live",
+      "answer": "wohnen; leben",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "fragen",
+        "anhalten; stoppen",
+        "haben"
+      ],
+      "id": "57a0a411-d4af-43ea-b2bc-b10bb6ae5b31"
+    },
+    {
+      "type": "choice",
+      "prompt": "house",
+      "answer": "das Haus",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Zuhause; das Heim",
+        "der Fußball",
+        "das Fahrrad"
+      ],
+      "id": "54f548b5-9801-4bde-98ce-e3bf715b773a"
+    },
+    {
+      "type": "choice",
+      "prompt": "mum",
+      "answer": "die Mama",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Schwester",
+        "die Familie",
+        "die Gebärdensprache"
+      ],
+      "id": "c2b5fb5b-a76d-49e7-931f-feb5ca113779"
+    },
+    {
+      "type": "choice",
+      "prompt": "sister",
+      "answer": "die Schwester",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Mama",
+        "der Bruder",
+        "die Familie"
+      ],
+      "id": "9bd18390-e0ec-4df0-8325-73d1019726eb"
+    },
+    {
+      "type": "choice",
+      "prompt": "brother",
+      "answer": "der Bruder",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Schwester",
+        "die Mama",
+        "der Fußball"
+      ],
+      "id": "92ef3f0b-4ade-44af-b04a-1edcdc6290c0"
+    }
+  ],
+  "id": "a6f82e52-81bd-4c45-bf3f-ae38ed237fed"
+}
