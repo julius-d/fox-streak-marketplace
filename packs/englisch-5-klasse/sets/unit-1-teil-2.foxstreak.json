@@ -1,0 +1,153 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "title": "Vocabulary Unit 1 Teil 2",
+  "description": "Englisch-Vokabeln aus Unit 1 (Englisch nach Deutsch)",
+  "createdBy": "Lehrer",
+  "category": "vocab",
+  "id": "4b3a2f1c-7e8d-491a-b6c2-3e4f5a6b7c8d",
+  "items": [
+    {
+      "type": "choice",
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "prompt": "homework",
+      "answer": "die Hausaufgabe",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Hausaufgabe",
+        "das Buch",
+        "die Schule",
+        "der Test"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "prompt": "sure",
+      "answer": "sicher",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "sicher",
+        "schnell",
+        "schwer",
+        "schön"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "prompt": "number",
+      "answer": "die Zahl",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Zahl",
+        "das Wort",
+        "die Frage",
+        "die Antwort"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "prompt": "experiment",
+      "answer": "das Experiment",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "das Experiment",
+        "die Stunde",
+        "die Pause",
+        "das Heft"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "prompt": "sport",
+      "answer": "der Sport",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "der Sport",
+        "das Spiel",
+        "die Musik",
+        "das Bild"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "prompt": "biology",
+      "answer": "Biologie",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Biologie",
+        "Geschichte",
+        "Erdkunde",
+        "Mathematik"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+      "prompt": "geography",
+      "answer": "Erdkunde",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Erdkunde",
+        "Biologie",
+        "Chemie",
+        "Physik"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+      "prompt": "history",
+      "answer": "Geschichte",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "Geschichte",
+        "Technik",
+        "Englisch",
+        "Französisch"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+      "prompt": "cat",
+      "answer": "die Katze",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "die Katze",
+        "der Hund",
+        "die Maus",
+        "der Vogel"
+      ],
+      "imageType": "emoji",
+      "imageContent": "🐈"
+    },
+    {
+      "type": "choice",
+      "id": "4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+      "prompt": "big",
+      "answer": "groß",
+      "promptLang": "en",
+      "answerLang": "de",
+      "choices": [
+        "groß",
+        "klein",
+        "schnell",
+        "langsam"
+      ]
+    }
+  ]
+}
