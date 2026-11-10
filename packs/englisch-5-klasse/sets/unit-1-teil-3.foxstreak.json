@@ -17,7 +17,7 @@
         "das Spiel",
         "das Fahrrad"
       ],
-      "id": "3dcbf515-fa68-496d-9ce6-40a23bd5d1ad"
+      "id": "339a6a61-8bfb-457b-b945-92c8316caa69"
     },
     {
       "type": "choice",
@@ -30,7 +30,7 @@
         "die Schwester",
         "das Problem"
       ],
-      "id": "e18534dd-d98f-4837-b4e7-d259a4c173c1"
+      "id": "8a2ad465-5d54-4381-8cf4-61a76a35193f"
     },
     {
       "type": "choice",
@@ -43,7 +43,7 @@
         "das Haus",
         "das Fahrrad"
       ],
-      "id": "505b398c-4c70-4940-87ae-b4816d5ae7a9"
+      "id": "5ac9ff21-b999-4147-803d-7f38fceb032b"
     },
     {
       "type": "choice",
@@ -56,7 +56,7 @@
         "das Zuhause; das Heim",
         "das T-Shirt"
       ],
-      "id": "4ae7ae9a-92d1-496c-996e-6c3c71f99b96"
+      "id": "3f6e0f11-ed4a-4a8b-bab0-7d685f0177de"
     },
     {
       "type": "choice",
@@ -69,7 +69,7 @@
         "nicht",
         "da; dort"
       ],
-      "id": "51d5550f-4ee1-41a5-a4d7-4595fcd3b096"
+      "id": "09b054f7-1bda-4947-ab42-0c7158bdc5a2"
     },
     {
       "type": "choice",
@@ -82,7 +82,7 @@
         "das Haus",
         "das Fahrrad"
       ],
-      "id": "6b39acbe-4c14-4a7d-b24c-47edcd9a4298"
+      "id": "88264f73-bbeb-4347-bb51-32b649af27c7"
     },
     {
       "type": "choice",
@@ -95,7 +95,7 @@
         "Es tut mir leid.; Entschuldigung.",
         "unser / unsere"
       ],
-      "id": "74d44a03-c98e-4aab-b2e3-d719a03e929f"
+      "id": "2fd3a1ab-b978-4116-8558-8ac7cfb687dc"
     },
     {
       "type": "choice",
@@ -108,7 +108,7 @@
         "wer",
         "schnell"
       ],
-      "id": "cba4bae0-9560-476c-b859-93fb79c820a7"
+      "id": "d025573b-6518-47e3-bddf-5653a3693d61"
     },
     {
       "type": "choice",
@@ -121,7 +121,7 @@
         "jemand",
         "schnell"
       ],
-      "id": "b52ffabd-472a-4c49-a228-3627267ba093"
+      "id": "424567d8-3d8d-4fda-b49e-49d74b9c2f53"
     },
     {
       "type": "choice",
@@ -134,7 +134,7 @@
         "anhalten; stoppen",
         "aufhören"
       ],
-      "id": "a4a933c4-0048-4612-9729-2805449285bc"
+      "id": "ba46e544-e27c-41fc-a28f-1aebafa0d356"
     },
     {
       "type": "choice",
@@ -147,7 +147,7 @@
         "alle; ganz; alles",
         "unser / unsere"
       ],
-      "id": "b570a2e1-6bc0-4fc2-a405-13dc73e04976"
+      "id": "f22c86ad-10b5-47e7-bbda-5a8af3bcd949"
     },
     {
       "type": "choice",
@@ -160,7 +160,7 @@
         "da; dort",
         "alle; ganz; alles"
       ],
-      "id": "05317f11-cf47-4136-bcde-570c557ad479"
+      "id": "88f349c7-ec0c-45e1-a907-0e9bd718b55a"
     },
     {
       "type": "choice",
@@ -173,7 +173,7 @@
         "das Haus",
         "das T-Shirt"
       ],
-      "id": "317a1866-a31a-4128-9827-619aeb1b6088"
+      "id": "0b5658b6-6c2c-4866-9524-121bf398c0ca"
     },
     {
       "type": "choice",
@@ -186,7 +186,7 @@
         "fragen",
         "haben"
       ],
-      "id": "f856bc4a-4616-42ba-90a9-733cc674cd08"
+      "id": "11c27798-d512-40d7-baeb-6dc3404acf75"
     },
     {
       "type": "choice",
@@ -199,7 +199,7 @@
         "jemand",
         "wer"
       ],
-      "id": "f89fe65b-de68-4882-a566-bba673827f21"
+      "id": "e6c41d72-9994-4c56-a23a-b73848251930"
     },
     {
       "type": "choice",
@@ -212,7 +212,7 @@
         "wohnt",
         "fragt"
       ],
-      "id": "23707c96-535d-48c8-88d5-d60ee8fef038"
+      "id": "1acf8d94-2da8-4f76-be60-63184ffda7a3"
     },
     {
       "type": "choice",
@@ -225,7 +225,7 @@
         "lass(t) uns",
         "unser / unsere"
       ],
-      "id": "c947a752-5437-46da-bc91-a60776c746ae"
+      "id": "39a92e7f-d831-4d19-8ffc-64e7f7e8d43a"
     },
     {
       "type": "choice",
@@ -238,7 +238,7 @@
         "nicht",
         "alle; ganz; alles"
       ],
-      "id": "bac5379d-6cc5-470c-9c55-86c391278631"
+      "id": "3ba677b6-75ad-4b6a-9cc5-7cdd2cfa3bc8"
     },
     {
       "type": "choice",
@@ -251,7 +251,7 @@
         "lass(t) uns",
         "das Spiel"
       ],
-      "id": "9d4aea4f-df59-4bd6-974f-13e9cbf0974d"
+      "id": "53beb4da-85a8-4ce1-bd35-6b203fca8378"
     },
     {
       "type": "choice",
@@ -264,7 +264,7 @@
         "die Schwester",
         "die Gebärdensprache"
       ],
-      "id": "b78d4a77-ecb9-4034-ac52-ba1b42ee648b"
+      "id": "fd229c5a-d5f0-4237-b7c5-0e19dacc7c61"
     },
     {
       "type": "choice",
@@ -277,7 +277,7 @@
         "das Problem",
         "das Spiel"
       ],
-      "id": "99369122-2396-43ba-8506-4bfa256817a1"
+      "id": "5e2ca1e1-7434-4f87-a574-7b8140fb14f0"
     },
     {
       "type": "choice",
@@ -290,7 +290,7 @@
         "anhalten; stoppen",
         "haben"
       ],
-      "id": "05207a8b-cf5d-4c6a-8a03-9d5c53d281a9"
+      "id": "57a0a411-d4af-43ea-b2bc-b10bb6ae5b31"
     },
     {
       "type": "choice",
@@ -303,7 +303,7 @@
         "der Fußball",
         "das Fahrrad"
       ],
-      "id": "bceeea58-94b0-4e42-8b65-1e62a00115b1"
+      "id": "54f548b5-9801-4bde-98ce-e3bf715b773a"
     },
     {
       "type": "choice",
@@ -316,7 +316,7 @@
         "die Familie",
         "die Gebärdensprache"
       ],
-      "id": "9eac685e-c005-49a3-898b-111b69d6dd1d"
+      "id": "c2b5fb5b-a76d-49e7-931f-feb5ca113779"
     },
     {
       "type": "choice",
@@ -329,7 +329,7 @@
         "der Bruder",
         "die Familie"
       ],
-      "id": "04c45456-5bfe-4170-896e-27a54e2039a6"
+      "id": "9bd18390-e0ec-4df0-8325-73d1019726eb"
     },
     {
       "type": "choice",
@@ -342,8 +342,8 @@
         "die Mama",
         "der Fußball"
       ],
-      "id": "09d421f3-348e-40fd-bec0-127d0ab196e2"
+      "id": "92ef3f0b-4ade-44af-b04a-1edcdc6290c0"
     }
   ],
-  "id": "e0ed6f14-4abe-497b-88af-1723a4e1752f"
+  "id": "a6f82e52-81bd-4c45-bf3f-ae38ed237fed"
 }
