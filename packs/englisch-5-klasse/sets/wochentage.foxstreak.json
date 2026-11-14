@@ -102,6 +102,22 @@
       "answer": "Friday",
       "promptLang": "de",
       "answerLang": "en"
+    },
+    {
+      "id": "2b408427-ae1f-4b88-b3c5-f6eb5479e70d",
+      "type": "freeText",
+      "prompt": "Samstag",
+      "answer": "Saturday",
+      "promptLang": "de",
+      "answerLang": "en"
+    },
+    {
+      "id": "cd0be0a3-ac02-42a9-9717-7b05d42f6a43",
+      "type": "freeText",
+      "prompt": "Sonntag",
+      "answer": "Sunday",
+      "promptLang": "de",
+      "answerLang": "en"
     }
   ]
 }
