@@ -1,0 +1,110 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "9afd1490-a461-468f-8cd6-ee7698689c83",
+  "title": "Meere Europas",
+  "description": "Welches Meer ist das? Mittelmeer und seine Nebenmeere, Schwarzes Meer, Nordsee, Ostsee, Nordmeere und Kaspisches Meer erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "22c12e0d-0088-488e-80af-4fc8d27a9167",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Mittelmeer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-mediterranean.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7d78f130-bfdb-4d69-aaaa-56fea9f2680f",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Adriatisches Meer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-adriatic.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "420e4d89-be16-418a-81cf-219bea0ed1a3",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Ägäis",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-aegean.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1ccc019b-0b25-4134-940d-6852aa68370b",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Ionisches Meer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-ionian.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bcb9d612-81f4-4e0e-a666-4696042af0e4",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Tyrrhenisches Meer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-tyrrhenian.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ea5c687b-ce45-4b0c-a87b-184d00356b24",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Schwarzes Meer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-black.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c7699edf-56ba-43ad-8012-da7c0c1e1135",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Nordsee",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-north.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "be97433f-db8e-46c9-8c86-ce1ea2c447f7",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Ostsee",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-baltic.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9e3a7e9a-f270-46b3-ba5a-4978dbf4b5ba",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Norwegisches Meer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-norwegian.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c6e7612f-e426-47ae-aed9-a99ff3f3659a",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Barentssee",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-barents.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e4fdc98d-c515-419c-b0e2-6b2ad04bcc46",
+      "type": "choice",
+      "prompt": "Welches Meer ist das?",
+      "answer": "Kaspisches Meer",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/meer-europa-caspian.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

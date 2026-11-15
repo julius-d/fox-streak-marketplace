@@ -69,6 +69,15 @@
       "url": "sets/ozeane.foxstreak.json"
     },
     {
+      "id": "9afd1490-a461-468f-8cd6-ee7698689c83",
+      "title": "Meere Europas",
+      "description": "Welches Meer ist das? Mittelmeer und seine Nebenmeere, Schwarzes Meer, Nordsee, Ostsee, Nordmeere und Kaspisches Meer erkennen.",
+      "category": "geography",
+      "itemCount": 11,
+      "updatedAt": "2026-11-15",
+      "url": "sets/europa-meere.foxstreak.json"
+    },
+    {
       "id": "9b9eb2aa-60c8-4bf6-bc17-6669ca1ac3dc",
       "title": "Potsdamer Ortsteile",
       "description": "Welcher Potsdamer Ortsteil ist das? Die 32 Ortsteile Potsdams erkennen.",
