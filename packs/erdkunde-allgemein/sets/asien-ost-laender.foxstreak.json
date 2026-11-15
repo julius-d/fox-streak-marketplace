@@ -1,0 +1,227 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "f24f1e73-0997-4328-b603-9c823ccf73c7",
+  "title": "Länder Asiens Ost",
+  "description": "Welches Land ist das? Die 24 Länder Süd-, Ost- und Südostasiens erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "a547c8d1-8d01-4736-9c97-5bc34bc5ae89",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Pakistan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-pk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1da6b5fe-98f5-433f-a668-ec4af67163ec",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Indien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-in.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "771bc5e3-2991-4276-900c-8ce7de468f1a",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Nepal",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-np.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6f8fd72e-5c8f-43fd-a5b2-76dc7df8cd9e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Bhutan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-bt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3fc1e6bf-d402-4ebf-90e9-f60b651ee9bb",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Bangladesch",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-bd.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "58c7c1b8-6a8e-4ec8-9ea3-e858ff782d37",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Sri Lanka",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-lk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "af576929-b5fd-4df6-8da0-5a4de36a6641",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Malediven",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-mv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "661d8a3e-ed64-4e0a-a772-dbb27aecbc5f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "China",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-cn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "26d26c6a-40b4-4277-80da-35e1a62cf363",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Mongolei",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-mn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e18a261a-d97a-4ee1-a3a7-ffc422e38fa9",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Nordkorea",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-kp.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a2d19b85-bd16-4cc4-8de4-fc66662203d7",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Südkorea",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-kr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "db20eb9a-d74a-4c5f-bf17-885aab9fd923",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Japan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-jp.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a0baeb5b-c6fd-4aae-abf5-4db554dcbc2e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Taiwan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-tw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0674804b-e62c-4835-b243-901faf623ed7",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Myanmar",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-mm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2b284cc2-4fb3-4305-a32d-834091c85b4e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Thailand",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-th.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b1fa5d0a-245d-4976-a04a-689680ea40c9",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Laos",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-la.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "06f5d4c9-b120-4e9d-806e-2d4ca6ff914d",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kambodscha",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-kh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8c5e630d-fe34-4635-8603-e8d323163c38",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Vietnam",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-vn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cb120e22-3936-48c5-a4c7-0b7a2ad83bd2",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Malaysia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-my.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cfbc5482-8abe-4029-8af9-8b033cf019f2",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Singapur",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-sg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7ac64e9e-4153-4c69-9829-e2fd213aa353",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Brunei",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-bn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bf72fbf1-00be-40d1-980e-262cb369c103",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Indonesien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-id.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "96e97681-04b6-47fa-a670-02091284a70e",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Philippinen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-ph.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9fb070cd-088a-4a2d-9f0c-8c91c3a06efe",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Osttimor",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-ost-land-tl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

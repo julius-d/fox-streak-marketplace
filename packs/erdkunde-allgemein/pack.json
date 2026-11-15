@@ -103,6 +103,24 @@
       "itemCount": 10,
       "updatedAt": "2026-11-08",
       "url": "sets/nordamerika-laender.foxstreak.json"
+    },
+    {
+      "id": "194c7c4f-14d4-452b-84b5-3fe794323bbf",
+      "title": "Länder Asiens West",
+      "description": "Welches Land ist das? Die 24 Länder West- und Zentralasiens erkennen.",
+      "category": "geography",
+      "itemCount": 24,
+      "updatedAt": "2026-11-15",
+      "url": "sets/asien-west-laender.foxstreak.json"
+    },
+    {
+      "id": "f24f1e73-0997-4328-b603-9c823ccf73c7",
+      "title": "Länder Asiens Ost",
+      "description": "Welches Land ist das? Die 24 Länder Süd-, Ost- und Südostasiens erkennen.",
+      "category": "geography",
+      "itemCount": 24,
+      "updatedAt": "2026-11-15",
+      "url": "sets/asien-ost-laender.foxstreak.json"
     }
   ]
 }

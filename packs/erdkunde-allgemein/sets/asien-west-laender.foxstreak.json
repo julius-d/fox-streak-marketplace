@@ -1,0 +1,227 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "194c7c4f-14d4-452b-84b5-3fe794323bbf",
+  "title": "Länder Asiens West",
+  "description": "Welches Land ist das? Die 24 Länder West- und Zentralasiens erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "d5f953ce-c01f-416a-affb-fcd030194f7c",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Türkei",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-tr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f392c682-72bd-48d8-9ade-e418882c6647",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Zypern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-cy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e60bb30e-f251-4f28-88ae-59083032c7f1",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Georgien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-ge.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "168a0296-68ff-4a19-a0f5-f22ab3621eeb",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Armenien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-am.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5c87393c-5b66-4c01-8b07-87a5f7896365",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Aserbaidschan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-az.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0b186a7b-c079-4813-9fc9-2f16c70af71c",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Syrien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-sy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2cf72c4e-025a-445a-b158-4331da9fc623",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Libanon",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-lb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "47106536-5a8e-496e-8436-4e14151da4cb",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Israel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-il.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1fea28b0-76bf-4b02-99fb-4e3c9e492ade",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Jordanien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-jo.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5afe9ebe-6d5a-4f59-b974-6a1c23f30f77",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Irak",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-iq.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5130c1aa-3aea-4feb-90e6-f70f09710956",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Iran",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-ir.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "28d5c51f-959c-48ca-9aba-f705cc9581a5",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kuwait",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-kw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bb55d757-51d1-4780-898a-19a75d53938f",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Saudi-Arabien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-sa.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "798abcdb-db2a-4363-9c6f-9a1304e2553c",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Bahrain",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-bh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a85293d6-d231-4096-be19-e0b87cb25e93",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Katar",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-qa.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "65cb2a39-2d48-4569-bb4a-2f0dc49520c9",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Vereinigte Arabische Emirate",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-ae.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a0014c6a-241b-43bb-bda1-7ef12b66da08",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Oman",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-om.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1c4fa4ee-2962-4720-88f5-1702a86ac7aa",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Jemen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-ye.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1164e425-81b3-43f8-8a88-a5ff609a584b",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Afghanistan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-af.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e17a6631-f982-4b96-9486-35d082c421bf",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kasachstan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-kz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "09705fe1-87b7-43a8-9bc1-abb028459c60",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Usbekistan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-uz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5c37d68e-c57a-487e-8332-d1f7fb79fb35",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Turkmenistan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-tm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "67ea6f36-f499-435a-9ed4-c79396291f55",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Kirgisistan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-kg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "af90f326-f65a-4515-8bbb-d08e0965de60",
+      "type": "choice",
+      "prompt": "Welches Land ist das?",
+      "answer": "Tadschikistan",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/asien-west-land-tj.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
