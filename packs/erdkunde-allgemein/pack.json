@@ -33,6 +33,15 @@
       "url": "sets/europa-laender.foxstreak.json"
     },
     {
+      "id": "a875cdbd-65d8-4b7e-83bd-377b7f985943",
+      "title": "Hauptstädte Europas",
+      "description": "Wie heißt die Hauptstadt von ...? Die Hauptstädte der Länder Europas.",
+      "category": "geography",
+      "itemCount": 33,
+      "updatedAt": "2026-11-15",
+      "url": "sets/europa-hauptstaedte.foxstreak.json"
+    },
+    {
       "id": "6e04f12b-3d51-4c49-a483-a161498b9246",
       "title": "Länder Afrikas",
       "description": "Welches Land ist das? Die 54 Länder Afrikas erkennen.",

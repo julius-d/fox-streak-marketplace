@@ -1,0 +1,308 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "a875cdbd-65d8-4b7e-83bd-377b7f985943",
+  "title": "Hauptstädte Europas",
+  "description": "Wie heißt die Hauptstadt von ...? Die Hauptstädte der Länder Europas.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "e11dc69e-b321-4ba1-8c50-8d861ba95fe8",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Österreich?",
+      "answer": "Wien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-at.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ff0ee8c9-7ccd-460f-b6a8-a464bf92cdee",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Belgien?",
+      "answer": "Brüssel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f356f4a7-8835-4819-af3f-b61b4753f349",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Bulgarien?",
+      "answer": "Sofia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-bg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9df3ce96-8f99-4566-8c1c-bd09b0035d76",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Kroatien?",
+      "answer": "Zagreb",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-hr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b7af7abe-fab4-4d81-bb12-6669937d4ac6",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Zypern?",
+      "answer": "Nikosia",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-cy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5d721156-278e-4957-aa26-e149c5fa7675",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Tschechien?",
+      "answer": "Prag",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-cz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "84632907-168c-47eb-bd4d-2621ed9ec3c5",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Dänemark?",
+      "answer": "Kopenhagen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-dk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0633ccb7-397e-4023-abd1-69a22f6c787b",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Estland?",
+      "answer": "Tallinn",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ee.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "be3ecad1-ece9-4591-be7c-78b16ec79ca9",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Finnland?",
+      "answer": "Helsinki",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-fi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e959fe1b-1a66-470a-85f0-a144a48485b9",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Frankreich?",
+      "answer": "Paris",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-fr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b81cd4f1-8518-4f80-916a-7b37e92e0f16",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Deutschland?",
+      "answer": "Berlin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-de.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9f6ff29a-e12b-4478-9983-627d8948a4b8",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Griechenland?",
+      "answer": "Athen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-gr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "889aaacc-c914-4685-ae35-582b096ec2ab",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Ungarn?",
+      "answer": "Budapest",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-hu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "883225f3-8213-4746-a637-b42f37b9600c",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Irland?",
+      "answer": "Dublin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ie.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a147030f-6237-4158-ab1b-0d15dce66328",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Italien?",
+      "answer": "Rom",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-it.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3147a127-ed49-4d67-9299-90894dbdacd1",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Lettland?",
+      "answer": "Riga",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6fe111d3-4efe-4e78-a8fe-abe382e53dab",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Litauen?",
+      "answer": "Vilnius",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8b2edefa-b57e-4e9f-b1d2-9ed4e0736f45",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Luxemburg?",
+      "answer": "Luxemburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "76a88638-6323-4613-af7f-60a5d71b0a6e",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Malta?",
+      "answer": "Valletta",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-mt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e90f8858-026e-4e74-914d-50e3f06af1ea",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Niederlande?",
+      "answer": "Amsterdam",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-nl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9e7f8a2b-4f54-4bca-9e18-f35c79f071a3",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Polen?",
+      "answer": "Warschau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-pl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "14384ad6-2ad9-4512-a690-5e9c8a8a8048",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Portugal?",
+      "answer": "Lissabon",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-pt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f99d5c8f-29b9-48fa-b8f0-08c98c208d53",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Rumänien?",
+      "answer": "Bukarest",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ro.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fec63885-b21a-414e-94da-9bc791f44296",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Slowakei?",
+      "answer": "Bratislava",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-sk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "43b43d13-5317-4767-8c25-80cd9dc09748",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Slowenien?",
+      "answer": "Ljubljana",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-si.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5a3ea761-69e2-45be-aaaa-ce08b7f06487",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Spanien?",
+      "answer": "Madrid",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-es.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "957b3060-c1df-417e-8fd1-669b1c736ac3",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Schweden?",
+      "answer": "Stockholm",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-se.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "88a576c8-c788-481b-812c-21371ac35439",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Vereinigtes Königreich?",
+      "answer": "London",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-gb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "baf17c0d-b06f-4110-9f3f-efaf5893653c",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Schweiz?",
+      "answer": "Bern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ch.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5471cf23-58da-47e8-847e-56bc25fcfe07",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Monaco?",
+      "answer": "Monaco",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-mc.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e708e5e4-003e-4eea-a81a-38869e25064e",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von San Marino?",
+      "answer": "San Marino",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-sm.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6a8ac7dd-a061-48c2-9631-2e9cbd5c80b3",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Andorra?",
+      "answer": "Andorra la Vella",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ad.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "27ad877d-d805-4c4e-9554-b2b106569451",
+      "type": "choice",
+      "prompt": "Wie heißt die Hauptstadt von Liechtenstein?",
+      "answer": "Vaduz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-li.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
