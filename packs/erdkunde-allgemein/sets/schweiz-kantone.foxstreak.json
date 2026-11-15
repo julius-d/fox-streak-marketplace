@@ -1,0 +1,245 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "4cb25066-f266-4b57-844f-cf2de29fea4f",
+  "title": "Kantone der Schweiz",
+  "description": "Welcher Kanton ist das? Die 26 Kantone der Schweiz erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "3db0f33c-39c7-4b45-9173-fc0378d2465b",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Aargau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ag.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "27306ce9-afea-4ffa-904c-153715bc4e6b",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Appenzell Innerrhoden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ai.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f74b9fcf-a5ca-4471-8ed7-43e4ff9db226",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Appenzell Ausserrhoden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ar.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7cafc29f-e331-4472-8620-a5182b7c794d",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Bern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "04264b5b-eb88-4370-977d-262381bc5891",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Basel-Landschaft",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-bl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9ccd235a-5e57-4c62-91db-ec443e05840b",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Basel-Stadt",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-bs.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "91f0bd93-cf0a-4e44-8039-c3d3d0aa32c8",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Freiburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-fr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a8b88ad5-530a-4703-b068-90d9a2d8605f",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Genf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ge.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0ccf973f-939f-4a9d-997f-2510f5ce530f",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Glarus",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-gl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "58954b59-5409-46a1-ae38-df07b968fff3",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Graubünden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-gr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "56f7237e-4b77-43bd-8e47-e128b9d49f84",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Jura",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ju.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c63bbd25-dd33-4f45-8c1b-872b1650c548",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Luzern",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-lu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e872d049-bb75-499b-8f5d-7fd71ea9f844",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Neuenburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ne.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5f600b7f-31a8-4953-a57e-4d0704ff8649",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Nidwalden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-nw.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6af813ee-a293-49bd-88ec-d0f9c859865a",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Obwalden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ow.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ea8fd926-4fc1-48dc-97d5-4d97880ca0bc",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "St. Gallen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-sg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a81589c1-717c-4a49-a693-97ffa5313275",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Schaffhausen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-sh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0f5bd523-f182-4b50-965f-b74c79f10ad0",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Solothurn",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-so.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "11e39284-49c6-41e0-a922-fa1341bf37a5",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Schwyz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-sz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a2bff9a7-3e96-485e-a33f-6bd05a5f2289",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Thurgau",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-tg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d0093145-bdcf-4e5b-9407-f20090a57bd7",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Tessin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ti.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d475b328-ae7e-480b-a812-d96cb8d27204",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Uri",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-ur.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5417ae9c-135c-4939-a2ea-c92c8982d7fd",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Waadt",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-vd.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "4d3ff369-7c23-4d21-8968-3c0196eed453",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Wallis",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-vs.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d64414c0-ba9f-4af7-af69-a5a539d1c89d",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Zug",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-zg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "be0ce8f6-4c9d-4266-b9f9-a252f19523d5",
+      "type": "choice",
+      "prompt": "Welcher Kanton ist das?",
+      "answer": "Zürich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/schweiz-kanton-zh.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

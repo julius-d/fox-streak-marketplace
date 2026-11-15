@@ -148,6 +148,15 @@
       "itemCount": 9,
       "updatedAt": "2026-11-15",
       "url": "sets/oesterreich-bundeslaender.foxstreak.json"
+    },
+    {
+      "id": "4cb25066-f266-4b57-844f-cf2de29fea4f",
+      "title": "Kantone der Schweiz",
+      "description": "Welcher Kanton ist das? Die 26 Kantone der Schweiz erkennen.",
+      "category": "geography",
+      "itemCount": 26,
+      "updatedAt": "2026-11-15",
+      "url": "sets/schweiz-kantone.foxstreak.json"
     }
   ]
 }
