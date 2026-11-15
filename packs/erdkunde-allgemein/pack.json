@@ -139,6 +139,15 @@
       "itemCount": 24,
       "updatedAt": "2026-11-15",
       "url": "sets/asien-ost-laender.foxstreak.json"
+    },
+    {
+      "id": "e551eefa-7b37-4174-9ef5-460d8bd0f194",
+      "title": "Bundesländer Österreichs",
+      "description": "Welches Bundesland ist das? Die 9 Bundesländer Österreichs erkennen.",
+      "category": "geography",
+      "itemCount": 9,
+      "updatedAt": "2026-11-15",
+      "url": "sets/oesterreich-bundeslaender.foxstreak.json"
     }
   ]
 }

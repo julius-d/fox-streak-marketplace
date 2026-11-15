@@ -1,0 +1,92 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "e551eefa-7b37-4174-9ef5-460d8bd0f194",
+  "title": "Bundesländer Österreichs",
+  "description": "Welches Bundesland ist das? Die 9 Bundesländer Österreichs erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "9c1b4fb4-5a39-47e6-beb8-5ba579bf20fe",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Burgenland",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-b.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1286ad5e-7541-4aaf-a80f-b46d95011dcc",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Kärnten",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-k.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a2ca9e12-cbc5-4ff2-80c6-22a63c8b2c27",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Niederösterreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-noe.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "642fa53e-a301-4bf6-b571-3426462c36aa",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Oberösterreich",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-ooe.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "56e20e3d-ada9-497f-a199-c2917cfd5e79",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Salzburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-s.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ca7dec2d-7ef9-46d7-a97e-32b0fe893e2a",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Steiermark",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-st.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "df2eb6b1-4e44-446c-b1f5-aa09bbe86227",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Tirol",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-t.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "faa8ed9b-6479-4780-8eec-b5c34c4bc497",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Vorarlberg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-v.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "95e83e22-3483-451d-a74e-90fb7a9756e0",
+      "type": "choice",
+      "prompt": "Welches Bundesland ist das?",
+      "answer": "Wien",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/oesterreich-bundesland-w.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
