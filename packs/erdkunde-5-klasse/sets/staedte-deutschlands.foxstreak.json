@@ -1,0 +1,272 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "5c9f8c81-bb31-4914-8c4d-69ee222589b0",
+  "title": "Große Städte Deutschlands",
+  "description": "Welche Stadt ist das? Die 21 größten Städte Deutschlands und alle Landeshauptstädte auf der Karte erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "2bf1b45f-914c-4f93-945e-21a849cc2922",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Berlin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-berlin.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "845852a0-db35-4fc5-97c4-ff2d71b66a11",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Hamburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-hamburg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9fc32489-6729-4fcb-92ff-a86982e6ccd7",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "München",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-muenchen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5b983eab-6623-4026-bee4-9028e59294f1",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Köln",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-koeln.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d60e919e-e6f3-49a0-ad65-ee9728522e19",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Frankfurt am Main",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-frankfurt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ef76d9f8-d872-4d2f-ad21-bdd082c4792f",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Stuttgart",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-stuttgart.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "88d4ebdf-cf55-4cee-be33-119d11330949",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Düsseldorf",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-duesseldorf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "cd264328-8ed8-4412-ab56-67956b47f777",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Leipzig",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-leipzig.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6861b92c-8c3b-41ac-8cd0-a4630ba68da6",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Dortmund",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-dortmund.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "aa27b4e5-bf35-4113-8f3e-7b57dd746ac6",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Essen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-essen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e0d95910-71c6-40a2-a32c-fc5d4065bd01",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Bremen",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bremen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "001a8e23-5d4a-4034-bff8-f7cfbbeab401",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Dresden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-dresden.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0ee049ba-2619-4531-b4f3-324543cdb0c9",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Hannover",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-hannover.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9d82a4c7-5507-4bcc-9460-1c3182526435",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Nürnberg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-nuernberg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b4a7cd3e-e070-4274-965b-ffdedaaacb96",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Duisburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-duisburg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0cfc69f1-e72a-4a75-85f0-0910e803ea73",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Bochum",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bochum.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8c2b1ffa-79ab-4dee-91f0-53da6ba70fe0",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Wuppertal",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-wuppertal.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "e35d6c66-3369-4847-85e4-562a6c99be2c",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Bielefeld",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bielefeld.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "886a99f4-a6ee-4e7f-837e-387e9aa77c44",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Bonn",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bonn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c8e4c7ea-2042-4da9-ad8f-18859eda5f40",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Münster",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-muenster.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f9eaf3e7-fc57-4ade-99e1-e3e27ded30d1",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Mannheim",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-mannheim.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "34d03fcc-77bd-44ba-a2a0-55861b3fcfec",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Schwerin",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-schwerin.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3cc38f2b-4a6e-4bfb-a5a1-69a1987a151a",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Kiel",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-kiel.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a550924b-37ec-4a93-babf-858b8a3c1212",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Mainz",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-mainz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1b69bc3e-78c9-44f2-858f-f93abb7316b8",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Wiesbaden",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-wiesbaden.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "75c35385-5ecb-4a70-891b-6780cb179a46",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Saarbrücken",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-saarbruecken.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "696ea13c-5a62-4f45-b3eb-d7f387a22222",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Magdeburg",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-magdeburg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "3b104ad4-c47c-4c66-9776-d39e04db7ec1",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Erfurt",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-erfurt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2ea060b3-0650-49ba-833b-56e75f5c4742",
+      "type": "choice",
+      "prompt": "Welche Stadt ist das?",
+      "answer": "Potsdam",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-potsdam.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}

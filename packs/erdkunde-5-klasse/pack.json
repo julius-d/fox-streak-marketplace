@@ -58,6 +58,15 @@
       "itemCount": 13,
       "updatedAt": "2026-11-07",
       "url": "sets/hauptstaedte-der-bundeslaender.foxstreak.json"
+    },
+    {
+      "id": "5c9f8c81-bb31-4914-8c4d-69ee222589b0",
+      "title": "Große Städte Deutschlands",
+      "description": "Welche Stadt ist das? Die 21 größten Städte Deutschlands und alle Landeshauptstädte auf der Karte erkennen.",
+      "category": "geography",
+      "itemCount": 29,
+      "updatedAt": "2026-11-15",
+      "url": "sets/staedte-deutschlands.foxstreak.json"
     }
   ]
 }
