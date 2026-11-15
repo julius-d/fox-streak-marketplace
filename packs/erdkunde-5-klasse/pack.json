@@ -47,7 +47,7 @@
       "description": "Welches Bundesland ist das? Die 16 Bundesländer Deutschlands erkennen.",
       "category": "geography",
       "itemCount": 16,
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-15",
       "url": "sets/bundeslaender.foxstreak.json"
     },
     {
@@ -56,7 +56,7 @@
       "description": "Wie heißt die Hauptstadt von ...? Die Landeshauptstädte der 13 Flächenländer Deutschlands.",
       "category": "geography",
       "itemCount": 13,
-      "updatedAt": "2026-11-07",
+      "updatedAt": "2026-11-15",
       "url": "sets/hauptstaedte-der-bundeslaender.foxstreak.json"
     },
     {
