@@ -60,6 +60,15 @@
       "url": "sets/kontinente.foxstreak.json"
     },
     {
+      "id": "96e1d577-4f9d-46f8-8e4c-3be3188a584d",
+      "title": "Ozeane",
+      "description": "Welcher Ozean ist das? Die 5 Ozeane der Erde erkennen.",
+      "category": "geography",
+      "itemCount": 5,
+      "updatedAt": "2026-11-15",
+      "url": "sets/ozeane.foxstreak.json"
+    },
+    {
       "id": "9b9eb2aa-60c8-4bf6-bc17-6669ca1ac3dc",
       "title": "Potsdamer Ortsteile",
       "description": "Welcher Potsdamer Ortsteil ist das? Die 32 Ortsteile Potsdams erkennen.",

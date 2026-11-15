@@ -1,0 +1,56 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "96e1d577-4f9d-46f8-8e4c-3be3188a584d",
+  "title": "Ozeane",
+  "description": "Welcher Ozean ist das? Die 5 Ozeane der Erde erkennen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "cb68373c-5c6c-45a4-8f48-abd63301cc2f",
+      "type": "choice",
+      "prompt": "Welcher Ozean ist das?",
+      "answer": "Arktischer Ozean",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/ozean-arctic.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "899c46d1-6971-4b00-bca8-df6d58434728",
+      "type": "choice",
+      "prompt": "Welcher Ozean ist das?",
+      "answer": "Atlantischer Ozean",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/ozean-atlantic.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "edb9db13-8699-45c5-8618-fee63910b134",
+      "type": "choice",
+      "prompt": "Welcher Ozean ist das?",
+      "answer": "Indischer Ozean",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/ozean-indian.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "858c6a61-ff71-48be-afc4-9f8fc302e9e8",
+      "type": "choice",
+      "prompt": "Welcher Ozean ist das?",
+      "answer": "Pazifischer Ozean",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/ozean-pacific.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "01825fb2-b40f-4517-ac84-ccf9a6f36c0f",
+      "type": "choice",
+      "prompt": "Welcher Ozean ist das?",
+      "answer": "Südlicher Ozean",
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/ozean-southern.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
