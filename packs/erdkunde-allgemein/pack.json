@@ -157,6 +157,15 @@
       "itemCount": 26,
       "updatedAt": "2026-11-15",
       "url": "sets/schweiz-kantone.foxstreak.json"
+    },
+    {
+      "id": "8a71072e-35e7-4e59-948e-c9d29b04af98",
+      "title": "Einwohner großer Städte",
+      "description": "Wie viele Menschen leben dort? Die Einwohnerzahl (Stand 31.12.2025, auf 1.000 gerundet) der 21 größten Städte und aller Landeshauptstädte Deutschlands schätzen.",
+      "category": "geography",
+      "itemCount": 29,
+      "updatedAt": "2026-11-21",
+      "url": "sets/einwohner-staedte-deutschlands.foxstreak.json"
     }
   ]
 }

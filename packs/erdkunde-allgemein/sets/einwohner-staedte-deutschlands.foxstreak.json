@@ -1,0 +1,417 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "8a71072e-35e7-4e59-948e-c9d29b04af98",
+  "title": "Einwohner großer Städte",
+  "description": "Wie viele Menschen leben dort? Die Einwohnerzahl (Stand 31.12.2025, auf 1.000 gerundet) der 21 größten Städte und aller Landeshauptstädte Deutschlands schätzen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "1001a67b-e449-4cdf-a420-52669932b05f",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Berlin?",
+      "answer": "3.701.000",
+      "choices": [
+        "1.850.000",
+        "2.775.000",
+        "5.551.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-berlin.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "9a505c2f-31b8-40f2-a2c1-3da8c80c7f77",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Hamburg?",
+      "answer": "1.869.000",
+      "choices": [
+        "935.000",
+        "2.804.000",
+        "3.739.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-hamburg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d0bf802e-0ec9-434c-86ad-b797f7b87c9d",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat München?",
+      "answer": "1.505.000",
+      "choices": [
+        "753.000",
+        "2.258.000",
+        "3.010.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-muenchen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "070c593e-460a-42b3-bea6-f7ee5bb6f409",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Köln?",
+      "answer": "1.026.000",
+      "choices": [
+        "513.000",
+        "1.538.000",
+        "2.051.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-koeln.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0310352a-b1c8-4711-a9e4-d9bd30afb2e4",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Frankfurt am Main?",
+      "answer": "761.000",
+      "choices": [
+        "380.000",
+        "1.141.000",
+        "1.521.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-frankfurt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "623f2d1f-ca85-4d15-a082-9230cce444e3",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Düsseldorf?",
+      "answer": "619.000",
+      "choices": [
+        "310.000",
+        "929.000",
+        "1.239.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-duesseldorf.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fde36a83-5173-46c8-85c6-f0e970f7b8c1",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Leipzig?",
+      "answer": "616.000",
+      "choices": [
+        "308.000",
+        "924.000",
+        "1.232.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-leipzig.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f5e97a4b-8a10-43e5-a147-e5dabbecadba",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Stuttgart?",
+      "answer": "609.000",
+      "choices": [
+        "305.000",
+        "914.000",
+        "1.219.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-stuttgart.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "64ac063f-a96e-49f5-bdd3-b7f80fdef83b",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Dortmund?",
+      "answer": "601.000",
+      "choices": [
+        "300.000",
+        "901.000",
+        "1.202.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-dortmund.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "ffc3ce13-6073-4584-94a6-21ea57232854",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Bremen?",
+      "answer": "588.000",
+      "choices": [
+        "294.000",
+        "883.000",
+        "1.177.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bremen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1971cf66-a791-4335-b880-d2d28e9d611b",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Essen?",
+      "answer": "574.000",
+      "choices": [
+        "287.000",
+        "860.000",
+        "1.147.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-essen.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5796c6cd-45d1-4f18-a088-bda66d849150",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Dresden?",
+      "answer": "563.000",
+      "choices": [
+        "281.000",
+        "844.000",
+        "1.126.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-dresden.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "fefc7000-2ce8-4e7d-b443-f28ad08819ce",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Nürnberg?",
+      "answer": "531.000",
+      "choices": [
+        "266.000",
+        "797.000",
+        "1.062.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-nuernberg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "89984664-8fa4-405d-9ba7-acdb1d0c7b9d",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Hannover?",
+      "answer": "523.000",
+      "choices": [
+        "261.000",
+        "784.000",
+        "1.046.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-hannover.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5e519074-03c1-4b26-8713-6748dc4fc1c1",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Duisburg?",
+      "answer": "501.000",
+      "choices": [
+        "250.000",
+        "751.000",
+        "1.002.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-duisburg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a098f337-ed33-414a-9df9-763678e1e2a7",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Bochum?",
+      "answer": "359.000",
+      "choices": [
+        "179.000",
+        "538.000",
+        "718.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bochum.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5bb4aadd-6e9d-427d-924e-1a5c56c5260d",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Wuppertal?",
+      "answer": "357.000",
+      "choices": [
+        "179.000",
+        "536.000",
+        "714.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-wuppertal.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0af912bf-66c1-4b82-8952-577a59c434a0",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Bielefeld?",
+      "answer": "331.000",
+      "choices": [
+        "166.000",
+        "497.000",
+        "663.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bielefeld.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "36da2db3-1045-4d90-ad00-87ba448de999",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Bonn?",
+      "answer": "324.000",
+      "choices": [
+        "162.000",
+        "485.000",
+        "647.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-bonn.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "62702148-a3d7-445b-888c-2abfbf5042b1",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Mannheim?",
+      "answer": "320.000",
+      "choices": [
+        "160.000",
+        "479.000",
+        "639.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-mannheim.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "06e5cf9e-a457-4edf-9d65-baf878e2ef92",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Münster?",
+      "answer": "306.000",
+      "choices": [
+        "153.000",
+        "460.000",
+        "613.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-muenster.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "b7e752a7-f88b-4e00-8127-d675261aaae7",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Wiesbaden?",
+      "answer": "289.000",
+      "choices": [
+        "144.000",
+        "433.000",
+        "577.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-wiesbaden.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c9464277-7aa9-4d6f-9cb5-c06b85d9f969",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Kiel?",
+      "answer": "252.000",
+      "choices": [
+        "126.000",
+        "378.000",
+        "504.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-kiel.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "bdf23592-6bbd-41b5-861f-8d16ca1e9859",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Magdeburg?",
+      "answer": "244.000",
+      "choices": [
+        "122.000",
+        "367.000",
+        "489.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-magdeburg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "434ffc6b-ceb7-4443-9b4c-e26f80110c68",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Mainz?",
+      "answer": "224.000",
+      "choices": [
+        "112.000",
+        "336.000",
+        "448.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-mainz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "723f3001-a67d-4714-8051-93e4ae90ddd8",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Erfurt?",
+      "answer": "217.000",
+      "choices": [
+        "109.000",
+        "326.000",
+        "434.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-erfurt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "8e7870c4-04e3-4d50-897f-6c452e970269",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Potsdam?",
+      "answer": "185.000",
+      "choices": [
+        "93.000",
+        "278.000",
+        "370.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-potsdam.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "07023684-ffa2-49ab-8b80-3da067599ab3",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Saarbrücken?",
+      "answer": "183.000",
+      "choices": [
+        "91.000",
+        "274.000",
+        "366.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-saarbruecken.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "5832fc2b-e427-45f3-9e75-81ebbb813394",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Schwerin?",
+      "answer": "98.000",
+      "choices": [
+        "49.000",
+        "147.000",
+        "196.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-5-klasse/images/stadt-schwerin.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
