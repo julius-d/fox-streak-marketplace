@@ -166,6 +166,15 @@
       "itemCount": 29,
       "updatedAt": "2026-11-22",
       "url": "sets/einwohner-staedte-deutschlands.foxstreak.json"
+    },
+    {
+      "id": "d8d18362-1ede-47a9-bcea-0d4210cd3bc1",
+      "title": "Einwohner europäischer Länder",
+      "description": "Wie viele Menschen leben dort? Die Einwohnerzahl (Stand 2025, auf 100.000 gerundet) von 28 Ländern Europas schätzen.",
+      "category": "geography",
+      "itemCount": 28,
+      "updatedAt": "2026-11-22",
+      "url": "sets/europa-einwohner.foxstreak.json"
     }
   ]
 }

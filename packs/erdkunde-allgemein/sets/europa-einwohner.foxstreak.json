@@ -1,0 +1,403 @@
+{
+  "format": "foxstreak-set",
+  "version": 1,
+  "id": "d8d18362-1ede-47a9-bcea-0d4210cd3bc1",
+  "title": "Einwohner europäischer Länder",
+  "description": "Wie viele Menschen leben dort? Die Einwohnerzahl (Stand 2025, auf 100.000 gerundet) von 28 Ländern Europas schätzen.",
+  "createdBy": "FoxStreak Marketplace",
+  "category": "geography",
+  "items": [
+    {
+      "id": "c30cb031-bcd1-47db-9f98-c1abbddc2f24",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Deutschland?",
+      "answer": "83.600.000",
+      "choices": [
+        "100.300.000",
+        "117.000.000",
+        "71.100.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-de.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "72948df5-dcb2-4f7e-88d8-6e79058ee335",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Vereinigtes Königreich?",
+      "answer": "69.600.000",
+      "choices": [
+        "139.200.000",
+        "48.700.000",
+        "97.400.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-gb.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1e591fbf-62e2-4894-9e77-ef43aa97e4f1",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Frankreich?",
+      "answer": "68.600.000",
+      "choices": [
+        "58.300.000",
+        "96.000.000",
+        "48.000.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-fr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c717efb6-824f-4677-8881-504622764550",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Italien?",
+      "answer": "58.900.000",
+      "choices": [
+        "70.700.000",
+        "100.100.000",
+        "141.400.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-it.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "963a5a53-9bda-4331-803e-8ac51de5aa23",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Spanien?",
+      "answer": "49.100.000",
+      "choices": [
+        "19.600.000",
+        "41.700.000",
+        "34.400.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-es.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f8b7a1cd-33c7-4444-bf02-181dce833e31",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Polen?",
+      "answer": "36.500.000",
+      "choices": [
+        "25.600.000",
+        "87.600.000",
+        "20.100.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-pl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "f2bbcfe9-2d16-4341-bdb4-cc80ea210e17",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Rumänien?",
+      "answer": "19.000.000",
+      "choices": [
+        "7.600.000",
+        "13.300.000",
+        "26.600.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ro.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "94a6f516-7bdc-4b52-b301-e5f905c5b946",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Niederlande?",
+      "answer": "18.000.000",
+      "choices": [
+        "7.200.000",
+        "12.600.000",
+        "9.900.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-nl.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "713a8f72-c68d-4055-a672-809b3bfe9b52",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Belgien?",
+      "answer": "11.900.000",
+      "choices": [
+        "6.500.000",
+        "8.300.000",
+        "10.100.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-be.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "2ec7f395-9d89-4afc-84a1-ad35be8927d2",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Tschechien?",
+      "answer": "10.900.000",
+      "choices": [
+        "26.200.000",
+        "13.100.000",
+        "21.800.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-cz.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "6db1f5e6-8cb8-4eeb-a0a0-10933f4e894b",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Portugal?",
+      "answer": "10.700.000",
+      "choices": [
+        "21.400.000",
+        "9.100.000",
+        "12.800.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-pt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "aae9d888-2283-4543-9ea2-9c17e905053a",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Schweden?",
+      "answer": "10.600.000",
+      "choices": [
+        "7.400.000",
+        "18.000.000",
+        "25.400.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-se.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "7f38ad24-1b6d-4e84-96aa-f0c7da2d1e59",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Griechenland?",
+      "answer": "10.400.000",
+      "choices": [
+        "8.800.000",
+        "7.300.000",
+        "4.200.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-gr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "650a4a23-5f1c-47ea-a00d-a80f56cff78e",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Ungarn?",
+      "answer": "9.500.000",
+      "choices": [
+        "3.800.000",
+        "11.400.000",
+        "16.200.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-hu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "25c4939f-9991-4ee1-bf5c-cbf27e58b01e",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Österreich?",
+      "answer": "9.200.000",
+      "choices": [
+        "22.100.000",
+        "15.600.000",
+        "18.400.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-at.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c0e67a5d-055d-43ac-b5b3-686cfc8983d7",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Schweiz?",
+      "answer": "9.000.000",
+      "choices": [
+        "5.000.000",
+        "7.600.000",
+        "12.600.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ch.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0a85ace7-52fc-4b5d-89cf-994026f3b172",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Bulgarien?",
+      "answer": "6.400.000",
+      "choices": [
+        "15.400.000",
+        "12.800.000",
+        "7.700.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-bg.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "c45349ad-08d3-4c9a-809b-11e273a6d168",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Dänemark?",
+      "answer": "6.000.000",
+      "choices": [
+        "4.200.000",
+        "3.300.000",
+        "5.100.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-dk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "016f3675-225c-447f-8fd4-e1193c4fa99a",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Finnland?",
+      "answer": "5.600.000",
+      "choices": [
+        "3.100.000",
+        "4.800.000",
+        "11.200.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-fi.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0cece75b-6157-4e12-a4f1-7ff6dbe62a82",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Irland?",
+      "answer": "5.400.000",
+      "choices": [
+        "3.000.000",
+        "4.600.000",
+        "3.800.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ie.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "a3972e8a-0e32-444f-ada9-e003d9920678",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Slowakei?",
+      "answer": "5.400.000",
+      "choices": [
+        "4.600.000",
+        "3.000.000",
+        "3.800.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-sk.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "269e7514-cc53-4b2e-8e93-9bc91e3dacb4",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Kroatien?",
+      "answer": "3.900.000",
+      "choices": [
+        "5.500.000",
+        "9.400.000",
+        "1.600.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-hr.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "71c4c100-4302-45a2-ad2e-406c9f635bab",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Litauen?",
+      "answer": "2.900.000",
+      "choices": [
+        "7.000.000",
+        "1.600.000",
+        "1.200.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lt.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "1d1fb7b1-f71d-4acf-84d3-d69fe7ab2308",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Slowenien?",
+      "answer": "2.100.000",
+      "choices": [
+        "1.500.000",
+        "2.900.000",
+        "2.500.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-si.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "d7fd9243-cdcf-4869-87c0-8868cc8aeb79",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Lettland?",
+      "answer": "1.900.000",
+      "choices": [
+        "3.200.000",
+        "4.600.000",
+        "2.300.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lv.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "0a7391e7-0dc7-488e-8f11-582fab9fa36e",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Estland?",
+      "answer": "1.400.000",
+      "choices": [
+        "2.800.000",
+        "2.000.000",
+        "3.400.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-ee.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "084fd9c4-62d9-4088-ad01-57e451aa37f0",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Zypern?",
+      "answer": "1.000.000",
+      "choices": [
+        "1.700.000",
+        "1.200.000",
+        "2.000.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-cy.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    },
+    {
+      "id": "933f3a96-ef66-40d1-99e6-74e269164c3c",
+      "type": "choice",
+      "prompt": "Wie viele Einwohner hat Luxemburg?",
+      "answer": "700.000",
+      "choices": [
+        "1.000.000",
+        "400.000",
+        "300.000"
+      ],
+      "imageType": "url",
+      "imageContent": "https://julius-d.github.io/fox-streak-marketplace/packs/erdkunde-allgemein/images/europa-land-lu.png",
+      "imageCopyright": "© OpenStreetMap contributors"
+    }
+  ]
+}
